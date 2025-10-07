@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+
+    <record id="xams" model="invest.exchange">
+        <field name="name">Euronext Amsterdam</field>
+        <field name="code">XAMS</field>
+        <field name="country_id" ref="base.nl"/>
+    </record>
+
+    <record id="xbru" model="invest.exchange">
+        <field name="name">Euronext Brussels</field>
+        <field name="code">XBRU</field>
+        <field name="country_id" ref="base.be"/>
+    </record>
+
+    <record id="xpar" model="invest.exchange">
+        <field name="name">Euronext Paris</field>
+        <field name="code">XPAR</field>
+        <field name="country_id" ref="base.fr"/>
+    </record>
+
+    <record id="xetr" model="invest.exchange">
+        <field name="name">Xetra</field>
+        <field name="code">XETR</field>
+        <field name="country_id" ref="base.de"/>
+    </record>
+
+    <record id="xnas" model="invest.exchange">
+        <field name="name">NASDAQ</field>
+        <field name="code">XNAS</field>
+        <field name="country_id" ref="base.us"/>
+    </record>
+
+    <record id="xnys" model="invest.exchange">
+        <field name="name">New York Stock Exchange</field>
+        <field name="code">XNYS</field>
+        <field name="country_id" ref="base.us"/>
+    </record>
+
+</odoo>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+
+    <record id="broker_demo" model="invest.broker">
+        <field name="name">Demo Broker</field>
+        <field name="currency_id" ref="base.EUR"/>
+    </record>
+
+    <record id="portfolio_demo" model="invest.portfolio">
+        <field name="name">Admin's Portfolio</field>
+        <field name="partner_id" ref="base.partner_admin"/>
+        <field name="broker_id" ref="broker_demo"/>
+        <field name="currency_id" ref="base.EUR"/>
+    </record>
+
+    <record id="portfolio_wallet_demo" model="invest.portfolio.wallet">
+        <field name="portfolio_id" ref="portfolio_demo"/>
+    </record>
+
+    <record id="portfolio_wallet_demo_transfer_1" model="invest.portfolio.wallet.transfer">
+        <field name="wallet_id" ref="portfolio_wallet_demo"/>
+        <field name="date">2026-01-05</field>
+        <field name="amount">2000</field>
+    </record>
+    <record id="portfolio_wallet_demo_transfer_2" model="invest.portfolio.wallet.transfer">
+        <field name="wallet_id" ref="portfolio_wallet_demo"/>
+        <field name="date">2026-02-06</field>
+        <field name="amount">-500</field>
+    </record>
+
+    <record id="portfolio_demo_order_1" model="invest.portfolio.order">
+        <field name="date">2026-02-02</field>
+        <field name="wallet_id" ref="portfolio_wallet_demo"/>
+        <field name="security_id" ref="bel"/>
+        <field name="value">75.75</field>
+        <field name="quantity">10</field>
+        <field name="broker_id" ref="broker_demo"/>
+        <field name="broker_fee">4.0</field>
+        <field name="amount_tax">0.91</field>
+    </record>
+    <record id="portfolio_demo_order_2" model="invest.portfolio.order">
+        <field name="date">2026-02-04</field>
+        <field name="wallet_id" ref="portfolio_wallet_demo"/>
+        <field name="security_id" ref="bel"/>
+        <field name="value">82.8</field>
+        <field name="quantity">-5</field>
+        <field name="broker_id" ref="broker_demo"/>
+        <field name="broker_fee">2.0</field>
+        <field name="amount_tax">0.5</field>
+    </record>
+
+</odoo>

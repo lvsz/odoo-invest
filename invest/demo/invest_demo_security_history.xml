@@ -1,0 +1,3363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+
+    <record forcecreate="0" id="bel20250915" model="invest.security.entry">
+        <field name="date">2025-09-15</field>
+        <field name="open">71.63</field>
+        <field name="close">71.35</field>
+        <field name="high">72.0</field>
+        <field name="low">71.35</field>
+        <field name="volume">5622</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20250916" model="invest.security.entry">
+        <field name="date">2025-09-16</field>
+        <field name="open">71.37</field>
+        <field name="close">70.54</field>
+        <field name="high">71.37</field>
+        <field name="low">70.54</field>
+        <field name="volume">976</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20250917" model="invest.security.entry">
+        <field name="date">2025-09-17</field>
+        <field name="open">70.61</field>
+        <field name="close">70.57</field>
+        <field name="high">70.83</field>
+        <field name="low">70.5</field>
+        <field name="volume">512</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20250918" model="invest.security.entry">
+        <field name="date">2025-09-18</field>
+        <field name="open">70.81</field>
+        <field name="close">70.35</field>
+        <field name="high">70.81</field>
+        <field name="low">70.31</field>
+        <field name="volume">630</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20250919" model="invest.security.entry">
+        <field name="date">2025-09-19</field>
+        <field name="open">70.49</field>
+        <field name="close">70.56</field>
+        <field name="high">70.72</field>
+        <field name="low">70.43</field>
+        <field name="volume">924</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20250922" model="invest.security.entry">
+        <field name="date">2025-09-22</field>
+        <field name="open">70.5</field>
+        <field name="close">70.4</field>
+        <field name="high">70.71</field>
+        <field name="low">70.2</field>
+        <field name="volume">1442</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20250923" model="invest.security.entry">
+        <field name="date">2025-09-23</field>
+        <field name="open">70.5</field>
+        <field name="close">70.58</field>
+        <field name="high">70.6</field>
+        <field name="low">70.36</field>
+        <field name="volume">594</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20250924" model="invest.security.entry">
+        <field name="date">2025-09-24</field>
+        <field name="open">70.34</field>
+        <field name="close">70.22</field>
+        <field name="high">70.34</field>
+        <field name="low">69.94</field>
+        <field name="volume">882</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20250925" model="invest.security.entry">
+        <field name="date">2025-09-25</field>
+        <field name="open">70.01</field>
+        <field name="close">69.6</field>
+        <field name="high">70.11</field>
+        <field name="low">69.6</field>
+        <field name="volume">1167</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20250926" model="invest.security.entry">
+        <field name="date">2025-09-26</field>
+        <field name="open">69.5</field>
+        <field name="close">70.11</field>
+        <field name="high">70.19</field>
+        <field name="low">69.2</field>
+        <field name="volume">3503</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20250929" model="invest.security.entry">
+        <field name="date">2025-09-29</field>
+        <field name="open">71.01</field>
+        <field name="close">71.68</field>
+        <field name="high">71.77</field>
+        <field name="low">71.01</field>
+        <field name="volume">4408</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20250930" model="invest.security.entry">
+        <field name="date">2025-09-30</field>
+        <field name="open">71.63</field>
+        <field name="close">72.05</field>
+        <field name="high">72.05</field>
+        <field name="low">71.35</field>
+        <field name="volume">600</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251001" model="invest.security.entry">
+        <field name="date">2025-10-01</field>
+        <field name="open">72.79</field>
+        <field name="close">73.45</field>
+        <field name="high">73.5</field>
+        <field name="low">72.79</field>
+        <field name="volume">1847</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251002" model="invest.security.entry">
+        <field name="date">2025-10-02</field>
+        <field name="open">73.86</field>
+        <field name="close">73.65</field>
+        <field name="high">73.9</field>
+        <field name="low">73.14</field>
+        <field name="volume">6468</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251003" model="invest.security.entry">
+        <field name="date">2025-10-03</field>
+        <field name="open">73.71</field>
+        <field name="close">73.64</field>
+        <field name="high">74.0</field>
+        <field name="low">73.58</field>
+        <field name="volume">1488</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251006" model="invest.security.entry">
+        <field name="date">2025-10-06</field>
+        <field name="open">73.88</field>
+        <field name="close">73.62</field>
+        <field name="high">73.88</field>
+        <field name="low">73.21</field>
+        <field name="volume">1495</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251007" model="invest.security.entry">
+        <field name="date">2025-10-07</field>
+        <field name="open">73.58</field>
+        <field name="close">73.44</field>
+        <field name="high">73.58</field>
+        <field name="low">73.21</field>
+        <field name="volume">989</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251008" model="invest.security.entry">
+        <field name="date">2025-10-08</field>
+        <field name="open">73.8</field>
+        <field name="close">73.93</field>
+        <field name="high">74.22</field>
+        <field name="low">73.8</field>
+        <field name="volume">3088</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251009" model="invest.security.entry">
+        <field name="date">2025-10-09</field>
+        <field name="open">73.9</field>
+        <field name="close">74.3</field>
+        <field name="high">74.48</field>
+        <field name="low">73.88</field>
+        <field name="volume">842</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251010" model="invest.security.entry">
+        <field name="date">2025-10-10</field>
+        <field name="open">74.4</field>
+        <field name="close">73.81</field>
+        <field name="high">74.5</field>
+        <field name="low">73.8</field>
+        <field name="volume">556</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251013" model="invest.security.entry">
+        <field name="date">2025-10-13</field>
+        <field name="open">73.89</field>
+        <field name="close">74.41</field>
+        <field name="high">74.49</field>
+        <field name="low">73.89</field>
+        <field name="volume">928</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251014" model="invest.security.entry">
+        <field name="date">2025-10-14</field>
+        <field name="open">73.91</field>
+        <field name="close">74.24</field>
+        <field name="high">74.46</field>
+        <field name="low">73.91</field>
+        <field name="volume">1037</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251015" model="invest.security.entry">
+        <field name="date">2025-10-15</field>
+        <field name="open">74.5</field>
+        <field name="close">74.67</field>
+        <field name="high">74.77</field>
+        <field name="low">74.3</field>
+        <field name="volume">366</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251016" model="invest.security.entry">
+        <field name="date">2025-10-16</field>
+        <field name="open">74.56</field>
+        <field name="close">74.91</field>
+        <field name="high">74.91</field>
+        <field name="low">74.53</field>
+        <field name="volume">2914</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251017" model="invest.security.entry">
+        <field name="date">2025-10-17</field>
+        <field name="open">74.29</field>
+        <field name="close">74.31</field>
+        <field name="high">74.43</field>
+        <field name="low">73.56</field>
+        <field name="volume">2927</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251020" model="invest.security.entry">
+        <field name="date">2025-10-20</field>
+        <field name="open">74.64</field>
+        <field name="close">75.27</field>
+        <field name="high">75.32</field>
+        <field name="low">74.64</field>
+        <field name="volume">1768</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251021" model="invest.security.entry">
+        <field name="date">2025-10-21</field>
+        <field name="open">75.16</field>
+        <field name="close">75.47</field>
+        <field name="high">75.5</field>
+        <field name="low">75.03</field>
+        <field name="volume">2489</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251022" model="invest.security.entry">
+        <field name="date">2025-10-22</field>
+        <field name="open">75.48</field>
+        <field name="close">74.82</field>
+        <field name="high">75.5</field>
+        <field name="low">74.82</field>
+        <field name="volume">2125</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251023" model="invest.security.entry">
+        <field name="date">2025-10-23</field>
+        <field name="open">74.77</field>
+        <field name="close">74.93</field>
+        <field name="high">74.93</field>
+        <field name="low">74.45</field>
+        <field name="volume">1192</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251024" model="invest.security.entry">
+        <field name="date">2025-10-24</field>
+        <field name="open">75.16</field>
+        <field name="close">74.78</field>
+        <field name="high">75.16</field>
+        <field name="low">74.43</field>
+        <field name="volume">264</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251027" model="invest.security.entry">
+        <field name="date">2025-10-27</field>
+        <field name="open">74.62</field>
+        <field name="close">74.74</field>
+        <field name="high">74.77</field>
+        <field name="low">74.11</field>
+        <field name="volume">547</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251028" model="invest.security.entry">
+        <field name="date">2025-10-28</field>
+        <field name="open">74.49</field>
+        <field name="close">74.05</field>
+        <field name="high">74.49</field>
+        <field name="low">73.7</field>
+        <field name="volume">727</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251029" model="invest.security.entry">
+        <field name="date">2025-10-29</field>
+        <field name="open">74.29</field>
+        <field name="close">74.42</field>
+        <field name="high">74.98</field>
+        <field name="low">74.22</field>
+        <field name="volume">3232</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251030" model="invest.security.entry">
+        <field name="date">2025-10-30</field>
+        <field name="open">75.0</field>
+        <field name="close">73.87</field>
+        <field name="high">75.0</field>
+        <field name="low">73.7</field>
+        <field name="volume">1229</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251031" model="invest.security.entry">
+        <field name="date">2025-10-31</field>
+        <field name="open">74.49</field>
+        <field name="close">73.34</field>
+        <field name="high">74.53</field>
+        <field name="low">73.2</field>
+        <field name="volume">747</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251103" model="invest.security.entry">
+        <field name="date">2025-11-03</field>
+        <field name="open">73.2</field>
+        <field name="close">73.36</field>
+        <field name="high">73.71</field>
+        <field name="low">73.2</field>
+        <field name="volume">3306</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251104" model="invest.security.entry">
+        <field name="date">2025-11-04</field>
+        <field name="open">72.94</field>
+        <field name="close">73.65</field>
+        <field name="high">73.7</field>
+        <field name="low">72.6</field>
+        <field name="volume">677</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251105" model="invest.security.entry">
+        <field name="date">2025-11-05</field>
+        <field name="open">73.13</field>
+        <field name="close">73.55</field>
+        <field name="high">73.55</field>
+        <field name="low">73.08</field>
+        <field name="volume">673</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251106" model="invest.security.entry">
+        <field name="date">2025-11-06</field>
+        <field name="open">73.43</field>
+        <field name="close">73.75</field>
+        <field name="high">73.84</field>
+        <field name="low">73.43</field>
+        <field name="volume">1102</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251107" model="invest.security.entry">
+        <field name="date">2025-11-07</field>
+        <field name="open">74.0</field>
+        <field name="close">73.54</field>
+        <field name="high">74.26</field>
+        <field name="low">73.54</field>
+        <field name="volume">449</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251110" model="invest.security.entry">
+        <field name="date">2025-11-10</field>
+        <field name="open">74.26</field>
+        <field name="close">74.55</field>
+        <field name="high">74.62</field>
+        <field name="low">74.23</field>
+        <field name="volume">3168</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251111" model="invest.security.entry">
+        <field name="date">2025-11-11</field>
+        <field name="open">74.8</field>
+        <field name="close">75.58</field>
+        <field name="high">75.58</field>
+        <field name="low">74.8</field>
+        <field name="volume">1665</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251112" model="invest.security.entry">
+        <field name="date">2025-11-12</field>
+        <field name="open">76.03</field>
+        <field name="close">76.24</field>
+        <field name="high">76.37</field>
+        <field name="low">75.85</field>
+        <field name="volume">1412</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251113" model="invest.security.entry">
+        <field name="date">2025-11-13</field>
+        <field name="open">76.26</field>
+        <field name="close">75.67</field>
+        <field name="high">76.34</field>
+        <field name="low">75.4</field>
+        <field name="volume">1073</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251114" model="invest.security.entry">
+        <field name="date">2025-11-14</field>
+        <field name="open">75.23</field>
+        <field name="close">75.4</field>
+        <field name="high">75.4</field>
+        <field name="low">74.2</field>
+        <field name="volume">2157</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251117" model="invest.security.entry">
+        <field name="date">2025-11-17</field>
+        <field name="open">75.52</field>
+        <field name="close">75.12</field>
+        <field name="high">75.52</field>
+        <field name="low">75.12</field>
+        <field name="volume">402</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251118" model="invest.security.entry">
+        <field name="date">2025-11-18</field>
+        <field name="open">74.4</field>
+        <field name="close">74.0</field>
+        <field name="high">74.46</field>
+        <field name="low">73.95</field>
+        <field name="volume">1424</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251119" model="invest.security.entry">
+        <field name="date">2025-11-19</field>
+        <field name="open">73.95</field>
+        <field name="close">74.57</field>
+        <field name="high">74.97</field>
+        <field name="low">73.82</field>
+        <field name="volume">736</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251120" model="invest.security.entry">
+        <field name="date">2025-11-20</field>
+        <field name="open">75.03</field>
+        <field name="close">74.65</field>
+        <field name="high">75.13</field>
+        <field name="low">74.49</field>
+        <field name="volume">977</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251121" model="invest.security.entry">
+        <field name="date">2025-11-21</field>
+        <field name="open">74.14</field>
+        <field name="close">74.85</field>
+        <field name="high">74.85</field>
+        <field name="low">74.14</field>
+        <field name="volume">621</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251124" model="invest.security.entry">
+        <field name="date">2025-11-24</field>
+        <field name="open">75.19</field>
+        <field name="close">74.91</field>
+        <field name="high">75.19</field>
+        <field name="low">74.85</field>
+        <field name="volume">1000</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251125" model="invest.security.entry">
+        <field name="date">2025-11-25</field>
+        <field name="open">75.01</field>
+        <field name="close">74.98</field>
+        <field name="high">75.12</field>
+        <field name="low">74.6</field>
+        <field name="volume">506</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251126" model="invest.security.entry">
+        <field name="date">2025-11-26</field>
+        <field name="open">75.36</field>
+        <field name="close">75.35</field>
+        <field name="high">75.5</field>
+        <field name="low">75.0</field>
+        <field name="volume">630</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251127" model="invest.security.entry">
+        <field name="date">2025-11-27</field>
+        <field name="open">75.34</field>
+        <field name="close">75.52</field>
+        <field name="high">75.62</field>
+        <field name="low">75.31</field>
+        <field name="volume">1355</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251128" model="invest.security.entry">
+        <field name="date">2025-11-28</field>
+        <field name="open">75.53</field>
+        <field name="close">75.55</field>
+        <field name="high">75.76</field>
+        <field name="low">75.26</field>
+        <field name="volume">1156</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251201" model="invest.security.entry">
+        <field name="date">2025-12-01</field>
+        <field name="open">75.33</field>
+        <field name="close">75.1</field>
+        <field name="high">75.35</field>
+        <field name="low">75.0</field>
+        <field name="volume">865</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251202" model="invest.security.entry">
+        <field name="date">2025-12-02</field>
+        <field name="open">74.98</field>
+        <field name="close">74.94</field>
+        <field name="high">75.49</field>
+        <field name="low">74.9</field>
+        <field name="volume">670</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251203" model="invest.security.entry">
+        <field name="date">2025-12-03</field>
+        <field name="open">75.14</field>
+        <field name="close">74.92</field>
+        <field name="high">75.52</field>
+        <field name="low">74.79</field>
+        <field name="volume">1283</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251204" model="invest.security.entry">
+        <field name="date">2025-12-04</field>
+        <field name="open">74.99</field>
+        <field name="close">75.19</field>
+        <field name="high">75.32</field>
+        <field name="low">74.92</field>
+        <field name="volume">389</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251205" model="invest.security.entry">
+        <field name="date">2025-12-05</field>
+        <field name="open">75.7</field>
+        <field name="close">75.43</field>
+        <field name="high">76.4</field>
+        <field name="low">75.43</field>
+        <field name="volume">2195</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251208" model="invest.security.entry">
+        <field name="date">2025-12-08</field>
+        <field name="open">75.92</field>
+        <field name="close">75.33</field>
+        <field name="high">75.92</field>
+        <field name="low">75.29</field>
+        <field name="volume">1045</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251209" model="invest.security.entry">
+        <field name="date">2025-12-09</field>
+        <field name="open">74.82</field>
+        <field name="close">74.18</field>
+        <field name="high">74.82</field>
+        <field name="low">74.1</field>
+        <field name="volume">512</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251210" model="invest.security.entry">
+        <field name="date">2025-12-10</field>
+        <field name="open">74.0</field>
+        <field name="close">73.9</field>
+        <field name="high">74.17</field>
+        <field name="low">73.7</field>
+        <field name="volume">830</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251211" model="invest.security.entry">
+        <field name="date">2025-12-11</field>
+        <field name="open">73.73</field>
+        <field name="close">74.24</field>
+        <field name="high">74.29</field>
+        <field name="low">73.6</field>
+        <field name="volume">546</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251212" model="invest.security.entry">
+        <field name="date">2025-12-12</field>
+        <field name="open">73.9</field>
+        <field name="close">74.06</field>
+        <field name="high">74.41</field>
+        <field name="low">73.9</field>
+        <field name="volume">426</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251215" model="invest.security.entry">
+        <field name="date">2025-12-15</field>
+        <field name="open">73.43</field>
+        <field name="close">74.23</field>
+        <field name="high">74.23</field>
+        <field name="low">73.21</field>
+        <field name="volume">1147</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251216" model="invest.security.entry">
+        <field name="date">2025-12-16</field>
+        <field name="open">74.15</field>
+        <field name="close">74.13</field>
+        <field name="high">74.72</field>
+        <field name="low">74.13</field>
+        <field name="volume">361</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251217" model="invest.security.entry">
+        <field name="date">2025-12-17</field>
+        <field name="open">74.53</field>
+        <field name="close">74.86</field>
+        <field name="high">74.86</field>
+        <field name="low">74.53</field>
+        <field name="volume">350</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251218" model="invest.security.entry">
+        <field name="date">2025-12-18</field>
+        <field name="open">74.61</field>
+        <field name="close">74.89</field>
+        <field name="high">74.94</field>
+        <field name="low">74.61</field>
+        <field name="volume">274</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251219" model="invest.security.entry">
+        <field name="date">2025-12-19</field>
+        <field name="open">74.88</field>
+        <field name="close">75.33</field>
+        <field name="high">75.39</field>
+        <field name="low">74.79</field>
+        <field name="volume">1449</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251222" model="invest.security.entry">
+        <field name="date">2025-12-22</field>
+        <field name="open">75.09</field>
+        <field name="close">74.92</field>
+        <field name="high">75.13</field>
+        <field name="low">74.71</field>
+        <field name="volume">1074</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251223" model="invest.security.entry">
+        <field name="date">2025-12-23</field>
+        <field name="open">75.0</field>
+        <field name="close">75.01</field>
+        <field name="high">75.24</field>
+        <field name="low">74.86</field>
+        <field name="volume">1003</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251224" model="invest.security.entry">
+        <field name="date">2025-12-24</field>
+        <field name="open">74.64</field>
+        <field name="close">74.83</field>
+        <field name="high">75.15</field>
+        <field name="low">74.64</field>
+        <field name="volume">997</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251229" model="invest.security.entry">
+        <field name="date">2025-12-29</field>
+        <field name="open">74.95</field>
+        <field name="close">75.02</field>
+        <field name="high">75.05</field>
+        <field name="low">74.74</field>
+        <field name="volume">1618</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251230" model="invest.security.entry">
+        <field name="date">2025-12-30</field>
+        <field name="open">74.75</field>
+        <field name="close">75.24</field>
+        <field name="high">75.38</field>
+        <field name="low">74.75</field>
+        <field name="volume">1468</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20251231" model="invest.security.entry">
+        <field name="date">2025-12-31</field>
+        <field name="open">75.39</field>
+        <field name="close">75.3</field>
+        <field name="high">75.39</field>
+        <field name="low">75.07</field>
+        <field name="volume">259</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260102" model="invest.security.entry">
+        <field name="date">2026-01-02</field>
+        <field name="open">75.5</field>
+        <field name="close">75.91</field>
+        <field name="high">76.05</field>
+        <field name="low">75.5</field>
+        <field name="volume">2321</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260105" model="invest.security.entry">
+        <field name="date">2026-01-05</field>
+        <field name="open">76.34</field>
+        <field name="close">75.52</field>
+        <field name="high">76.34</field>
+        <field name="low">75.22</field>
+        <field name="volume">4061</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260106" model="invest.security.entry">
+        <field name="date">2026-01-06</field>
+        <field name="open">75.87</field>
+        <field name="close">76.73</field>
+        <field name="high">76.76</field>
+        <field name="low">75.87</field>
+        <field name="volume">2026</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260107" model="invest.security.entry">
+        <field name="date">2026-01-07</field>
+        <field name="open">77.3</field>
+        <field name="close">77.46</field>
+        <field name="high">77.46</field>
+        <field name="low">76.76</field>
+        <field name="volume">2996</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260108" model="invest.security.entry">
+        <field name="date">2026-01-08</field>
+        <field name="open">77.48</field>
+        <field name="close">77.47</field>
+        <field name="high">77.82</field>
+        <field name="low">77.43</field>
+        <field name="volume">3061</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260109" model="invest.security.entry">
+        <field name="date">2026-01-09</field>
+        <field name="open">77.46</field>
+        <field name="close">77.74</field>
+        <field name="high">77.87</field>
+        <field name="low">77.46</field>
+        <field name="volume">1209</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260112" model="invest.security.entry">
+        <field name="date">2026-01-12</field>
+        <field name="open">77.25</field>
+        <field name="close">77.25</field>
+        <field name="high">77.31</field>
+        <field name="low">77.1</field>
+        <field name="volume">3086</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260113" model="invest.security.entry">
+        <field name="date">2026-01-13</field>
+        <field name="open">77.91</field>
+        <field name="close">77.82</field>
+        <field name="high">77.97</field>
+        <field name="low">77.52</field>
+        <field name="volume">2526</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260114" model="invest.security.entry">
+        <field name="date">2026-01-14</field>
+        <field name="open">78.26</field>
+        <field name="close">78.4</field>
+        <field name="high">78.88</field>
+        <field name="low">78.26</field>
+        <field name="volume">2906</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260115" model="invest.security.entry">
+        <field name="date">2026-01-15</field>
+        <field name="open">78.57</field>
+        <field name="close">79.48</field>
+        <field name="high">79.58</field>
+        <field name="low">78.57</field>
+        <field name="volume">2359</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260116" model="invest.security.entry">
+        <field name="date">2026-01-16</field>
+        <field name="open">79.69</field>
+        <field name="close">79.42</field>
+        <field name="high">79.96</field>
+        <field name="low">79.19</field>
+        <field name="volume">3392</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260119" model="invest.security.entry">
+        <field name="date">2026-01-19</field>
+        <field name="open">79.03</field>
+        <field name="close">78.39</field>
+        <field name="high">79.39</field>
+        <field name="low">78.39</field>
+        <field name="volume">2367</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260120" model="invest.security.entry">
+        <field name="date">2026-01-20</field>
+        <field name="open">77.95</field>
+        <field name="close">77.78</field>
+        <field name="high">77.96</field>
+        <field name="low">77.17</field>
+        <field name="volume">2150</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260121" model="invest.security.entry">
+        <field name="date">2026-01-21</field>
+        <field name="open">77.78</field>
+        <field name="close">78.03</field>
+        <field name="high">78.27</field>
+        <field name="low">77.55</field>
+        <field name="volume">983</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260122" model="invest.security.entry">
+        <field name="date">2026-01-22</field>
+        <field name="open">78.92</field>
+        <field name="close">79.18</field>
+        <field name="high">79.33</field>
+        <field name="low">78.78</field>
+        <field name="volume">2422</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260123" model="invest.security.entry">
+        <field name="date">2026-01-23</field>
+        <field name="open">79.34</field>
+        <field name="close">78.79</field>
+        <field name="high">79.34</field>
+        <field name="low">78.79</field>
+        <field name="volume">1157</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260126" model="invest.security.entry">
+        <field name="date">2026-01-26</field>
+        <field name="open">78.78</field>
+        <field name="close">79.09</field>
+        <field name="high">79.25</field>
+        <field name="low">78.53</field>
+        <field name="volume">1303</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260127" model="invest.security.entry">
+        <field name="date">2026-01-27</field>
+        <field name="open">79.5</field>
+        <field name="close">79.96</field>
+        <field name="high">80.0</field>
+        <field name="low">79.28</field>
+        <field name="volume">1859</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260128" model="invest.security.entry">
+        <field name="date">2026-01-28</field>
+        <field name="open">79.74</field>
+        <field name="close">79.74</field>
+        <field name="high">79.82</field>
+        <field name="low">79.35</field>
+        <field name="volume">2791</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260129" model="invest.security.entry">
+        <field name="date">2026-01-29</field>
+        <field name="open">79.93</field>
+        <field name="close">79.71</field>
+        <field name="high">80.19</field>
+        <field name="low">79.7</field>
+        <field name="volume">2618</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260130" model="invest.security.entry">
+        <field name="date">2026-01-30</field>
+        <field name="open">79.63</field>
+        <field name="close">79.83</field>
+        <field name="high">80.25</field>
+        <field name="low">79.63</field>
+        <field name="volume">1540</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260202" model="invest.security.entry">
+        <field name="date">2026-02-02</field>
+        <field name="open">79.54</field>
+        <field name="close">80.95</field>
+        <field name="high">81.29</field>
+        <field name="low">79.54</field>
+        <field name="volume">2295</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260203" model="invest.security.entry">
+        <field name="date">2026-02-03</field>
+        <field name="open">81.45</field>
+        <field name="close">81.28</field>
+        <field name="high">81.6</field>
+        <field name="low">81.0</field>
+        <field name="volume">4072</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+    <record forcecreate="0" id="bel20260204" model="invest.security.entry">
+        <field name="date">2026-02-04</field>
+        <field name="open">81.41</field>
+        <field name="close">82.37</field>
+        <field name="high">82.82</field>
+        <field name="low">81.41</field>
+        <field name="volume">4292</field>
+        <field name="security_id" ref="bel"/>
+    </record>
+
+    <record forcecreate="0" id="aapl20250102" model="invest.security.entry">
+        <field name="date">2025-01-02"</field>
+        <field name="open">248.93</field>
+        <field name="close">243.85</field>
+        <field name="high">249.1</field>
+        <field name="low">241.82</field>
+        <field name="volume">55740731</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250103" model="invest.security.entry">
+        <field name="date">2025-01-03"</field>
+        <field name="open">243.36</field>
+        <field name="close">243.36</field>
+        <field name="high">244.18</field>
+        <field name="low">241.89</field>
+        <field name="volume">40244114</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250106" model="invest.security.entry">
+        <field name="date">2025-01-06"</field>
+        <field name="open">244.31</field>
+        <field name="close">245.0</field>
+        <field name="high">247.33</field>
+        <field name="low">243.2</field>
+        <field name="volume">45045600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250107" model="invest.security.entry">
+        <field name="date">2025-01-07"</field>
+        <field name="open">242.98</field>
+        <field name="close">242.21</field>
+        <field name="high">245.55</field>
+        <field name="low">241.35</field>
+        <field name="volume">40856000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250108" model="invest.security.entry">
+        <field name="date">2025-01-08"</field>
+        <field name="open">241.92</field>
+        <field name="close">242.7</field>
+        <field name="high">243.71</field>
+        <field name="low">240.05</field>
+        <field name="volume">37628940</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250110" model="invest.security.entry">
+        <field name="date">2025-01-10"</field>
+        <field name="open">240.01</field>
+        <field name="close">236.85</field>
+        <field name="high">240.16</field>
+        <field name="low">233.0</field>
+        <field name="volume">61710900</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250113" model="invest.security.entry">
+        <field name="date">2025-01-13"</field>
+        <field name="open">233.53</field>
+        <field name="close">234.4</field>
+        <field name="high">234.67</field>
+        <field name="low">229.72</field>
+        <field name="volume">49630725</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250114" model="invest.security.entry">
+        <field name="date">2025-01-14"</field>
+        <field name="open">234.75</field>
+        <field name="close">233.28</field>
+        <field name="high">236.12</field>
+        <field name="low">232.47</field>
+        <field name="volume">39435300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250115" model="invest.security.entry">
+        <field name="date">2025-01-15"</field>
+        <field name="open">234.64</field>
+        <field name="close">237.87</field>
+        <field name="high">238.96</field>
+        <field name="low">234.43</field>
+        <field name="volume">39832000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250116" model="invest.security.entry">
+        <field name="date">2025-01-16"</field>
+        <field name="open">237.35</field>
+        <field name="close">228.26</field>
+        <field name="high">238.01</field>
+        <field name="low">228.03</field>
+        <field name="volume">71759100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250117" model="invest.security.entry">
+        <field name="date">2025-01-17"</field>
+        <field name="open">232.12</field>
+        <field name="close">229.98</field>
+        <field name="high">232.29</field>
+        <field name="low">228.48</field>
+        <field name="volume">68488301</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250121" model="invest.security.entry">
+        <field name="date">2025-01-21"</field>
+        <field name="open">224.0</field>
+        <field name="close">222.64</field>
+        <field name="high">224.42</field>
+        <field name="low">219.38</field>
+        <field name="volume">98070429</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250122" model="invest.security.entry">
+        <field name="date">2025-01-22"</field>
+        <field name="open">219.79</field>
+        <field name="close">223.83</field>
+        <field name="high">224.12</field>
+        <field name="low">219.79</field>
+        <field name="volume">64126500</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250123" model="invest.security.entry">
+        <field name="date">2025-01-23"</field>
+        <field name="open">224.74</field>
+        <field name="close">223.66</field>
+        <field name="high">227.03</field>
+        <field name="low">222.3</field>
+        <field name="volume">60234800</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250124" model="invest.security.entry">
+        <field name="date">2025-01-24"</field>
+        <field name="open">224.78</field>
+        <field name="close">222.78</field>
+        <field name="high">225.63</field>
+        <field name="low">221.41</field>
+        <field name="volume">54697907</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250127" model="invest.security.entry">
+        <field name="date">2025-01-27"</field>
+        <field name="open">224.02</field>
+        <field name="close">229.86</field>
+        <field name="high">232.15</field>
+        <field name="low">223.98</field>
+        <field name="volume">94863418</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250128" model="invest.security.entry">
+        <field name="date">2025-01-28"</field>
+        <field name="open">230.85</field>
+        <field name="close">238.26</field>
+        <field name="high">240.19</field>
+        <field name="low">230.81</field>
+        <field name="volume">75707600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250129" model="invest.security.entry">
+        <field name="date">2025-01-29"</field>
+        <field name="open">234.12</field>
+        <field name="close">239.36</field>
+        <field name="high">239.86</field>
+        <field name="low">234.01</field>
+        <field name="volume">45486100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250130" model="invest.security.entry">
+        <field name="date">2025-01-30"</field>
+        <field name="open">238.67</field>
+        <field name="close">237.59</field>
+        <field name="high">240.79</field>
+        <field name="low">237.21</field>
+        <field name="volume">55658300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250131" model="invest.security.entry">
+        <field name="date">2025-01-31"</field>
+        <field name="open">247.19</field>
+        <field name="close">236.0</field>
+        <field name="high">247.19</field>
+        <field name="low">233.44</field>
+        <field name="volume">101075128</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250203" model="invest.security.entry">
+        <field name="date">2025-02-03"</field>
+        <field name="open">229.99</field>
+        <field name="close">228.01</field>
+        <field name="high">231.83</field>
+        <field name="low">225.7</field>
+        <field name="volume">73063301</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250204" model="invest.security.entry">
+        <field name="date">2025-02-04"</field>
+        <field name="open">227.25</field>
+        <field name="close">232.8</field>
+        <field name="high">233.13</field>
+        <field name="low">226.65</field>
+        <field name="volume">45067301</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250205" model="invest.security.entry">
+        <field name="date">2025-02-05"</field>
+        <field name="open">228.53</field>
+        <field name="close">232.47</field>
+        <field name="high">232.67</field>
+        <field name="low">228.27</field>
+        <field name="volume">39664989</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250206" model="invest.security.entry">
+        <field name="date">2025-02-06"</field>
+        <field name="open">231.29</field>
+        <field name="close">233.22</field>
+        <field name="high">233.8</field>
+        <field name="low">230.43</field>
+        <field name="volume">29925349</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250207" model="invest.security.entry">
+        <field name="date">2025-02-07"</field>
+        <field name="open">232.6</field>
+        <field name="close">227.63</field>
+        <field name="high">234.0</field>
+        <field name="low">227.26</field>
+        <field name="volume">39707224</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250210" model="invest.security.entry">
+        <field name="date">2025-02-10"</field>
+        <field name="open">229.57</field>
+        <field name="close">227.65</field>
+        <field name="high">230.59</field>
+        <field name="low">227.2</field>
+        <field name="volume">33115645</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250211" model="invest.security.entry">
+        <field name="date">2025-02-11"</field>
+        <field name="open">228.2</field>
+        <field name="close">232.62</field>
+        <field name="high">235.23</field>
+        <field name="low">228.13</field>
+        <field name="volume">53718400</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250212" model="invest.security.entry">
+        <field name="date">2025-02-12"</field>
+        <field name="open">231.2</field>
+        <field name="close">236.87</field>
+        <field name="high">236.96</field>
+        <field name="low">230.68</field>
+        <field name="volume">45243300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250213" model="invest.security.entry">
+        <field name="date">2025-02-13"</field>
+        <field name="open">236.91</field>
+        <field name="close">241.53</field>
+        <field name="high">242.34</field>
+        <field name="low">235.57</field>
+        <field name="volume">53614100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250214" model="invest.security.entry">
+        <field name="date">2025-02-14"</field>
+        <field name="open">241.25</field>
+        <field name="close">244.6</field>
+        <field name="high">245.55</field>
+        <field name="low">240.99</field>
+        <field name="volume">40896227</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250218" model="invest.security.entry">
+        <field name="date">2025-02-18"</field>
+        <field name="open">244.15</field>
+        <field name="close">244.47</field>
+        <field name="high">245.18</field>
+        <field name="low">241.84</field>
+        <field name="volume">48822500</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250219" model="invest.security.entry">
+        <field name="date">2025-02-19"</field>
+        <field name="open">244.66</field>
+        <field name="close">244.87</field>
+        <field name="high">246.01</field>
+        <field name="low">243.16</field>
+        <field name="volume">32204215</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250220" model="invest.security.entry">
+        <field name="date">2025-02-20"</field>
+        <field name="open">244.94</field>
+        <field name="close">245.83</field>
+        <field name="high">246.78</field>
+        <field name="low">244.29</field>
+        <field name="volume">32316907</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250221" model="invest.security.entry">
+        <field name="date">2025-02-21"</field>
+        <field name="open">245.95</field>
+        <field name="close">245.55</field>
+        <field name="high">248.69</field>
+        <field name="low">245.22</field>
+        <field name="volume">53197431</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250224" model="invest.security.entry">
+        <field name="date">2025-02-24"</field>
+        <field name="open">244.93</field>
+        <field name="close">247.1</field>
+        <field name="high">248.86</field>
+        <field name="low">244.42</field>
+        <field name="volume">51326400</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250225" model="invest.security.entry">
+        <field name="date">2025-02-25"</field>
+        <field name="open">248.0</field>
+        <field name="close">247.04</field>
+        <field name="high">250.0</field>
+        <field name="low">244.91</field>
+        <field name="volume">48013300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250226" model="invest.security.entry">
+        <field name="date">2025-02-26"</field>
+        <field name="open">244.33</field>
+        <field name="close">240.36</field>
+        <field name="high">244.98</field>
+        <field name="low">239.13</field>
+        <field name="volume">44433600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250227" model="invest.security.entry">
+        <field name="date">2025-02-27"</field>
+        <field name="open">239.41</field>
+        <field name="close">237.3</field>
+        <field name="high">242.46</field>
+        <field name="low">237.06</field>
+        <field name="volume">41153639</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250228" model="invest.security.entry">
+        <field name="date">2025-02-28"</field>
+        <field name="open">236.95</field>
+        <field name="close">241.84</field>
+        <field name="high">242.09</field>
+        <field name="low">230.2</field>
+        <field name="volume">56833400</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250303" model="invest.security.entry">
+        <field name="date">2025-03-03"</field>
+        <field name="open">241.79</field>
+        <field name="close">238.03</field>
+        <field name="high">244.03</field>
+        <field name="low">236.11</field>
+        <field name="volume">47184000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250304" model="invest.security.entry">
+        <field name="date">2025-03-04"</field>
+        <field name="open">237.71</field>
+        <field name="close">235.93</field>
+        <field name="high">240.07</field>
+        <field name="low">234.68</field>
+        <field name="volume">53798100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250305" model="invest.security.entry">
+        <field name="date">2025-03-05"</field>
+        <field name="open">235.42</field>
+        <field name="close">235.74</field>
+        <field name="high">236.55</field>
+        <field name="low">229.23</field>
+        <field name="volume">47227643</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250306" model="invest.security.entry">
+        <field name="date">2025-03-06"</field>
+        <field name="open">234.44</field>
+        <field name="close">235.33</field>
+        <field name="high">237.86</field>
+        <field name="low">233.16</field>
+        <field name="volume">45170419</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250307" model="invest.security.entry">
+        <field name="date">2025-03-07"</field>
+        <field name="open">235.11</field>
+        <field name="close">239.07</field>
+        <field name="high">241.37</field>
+        <field name="low">234.76</field>
+        <field name="volume">46273600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250310" model="invest.security.entry">
+        <field name="date">2025-03-10"</field>
+        <field name="open">235.54</field>
+        <field name="close">227.48</field>
+        <field name="high">236.16</field>
+        <field name="low">224.22</field>
+        <field name="volume">72071200</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250311" model="invest.security.entry">
+        <field name="date">2025-03-11"</field>
+        <field name="open">223.81</field>
+        <field name="close">220.84</field>
+        <field name="high">225.84</field>
+        <field name="low">217.45</field>
+        <field name="volume">76137410</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250312" model="invest.security.entry">
+        <field name="date">2025-03-12"</field>
+        <field name="open">220.14</field>
+        <field name="close">216.98</field>
+        <field name="high">221.75</field>
+        <field name="low">214.91</field>
+        <field name="volume">62547500</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250313" model="invest.security.entry">
+        <field name="date">2025-03-13"</field>
+        <field name="open">215.95</field>
+        <field name="close">209.68</field>
+        <field name="high">216.84</field>
+        <field name="low">208.42</field>
+        <field name="volume">61368330</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250314" model="invest.security.entry">
+        <field name="date">2025-03-14"</field>
+        <field name="open">211.25</field>
+        <field name="close">213.49</field>
+        <field name="high">213.95</field>
+        <field name="low">209.58</field>
+        <field name="volume">60107600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250317" model="invest.security.entry">
+        <field name="date">2025-03-17"</field>
+        <field name="open">213.31</field>
+        <field name="close">214.0</field>
+        <field name="high">215.22</field>
+        <field name="low">209.97</field>
+        <field name="volume">48073426</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250318" model="invest.security.entry">
+        <field name="date">2025-03-18"</field>
+        <field name="open">214.16</field>
+        <field name="close">212.69</field>
+        <field name="high">215.15</field>
+        <field name="low">211.49</field>
+        <field name="volume">42432426</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250319" model="invest.security.entry">
+        <field name="date">2025-03-19"</field>
+        <field name="open">214.22</field>
+        <field name="close">215.24</field>
+        <field name="high">218.76</field>
+        <field name="low">213.75</field>
+        <field name="volume">54385400</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250320" model="invest.security.entry">
+        <field name="date">2025-03-20"</field>
+        <field name="open">213.99</field>
+        <field name="close">214.1</field>
+        <field name="high">217.49</field>
+        <field name="low">212.22</field>
+        <field name="volume">48862947</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250321" model="invest.security.entry">
+        <field name="date">2025-03-21"</field>
+        <field name="open">211.56</field>
+        <field name="close">218.27</field>
+        <field name="high">218.84</field>
+        <field name="low">211.28</field>
+        <field name="volume">94127800</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250324" model="invest.security.entry">
+        <field name="date">2025-03-24"</field>
+        <field name="open">221.0</field>
+        <field name="close">220.73</field>
+        <field name="high">221.48</field>
+        <field name="low">218.58</field>
+        <field name="volume">44299500</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250325" model="invest.security.entry">
+        <field name="date">2025-03-25"</field>
+        <field name="open">220.77</field>
+        <field name="close">223.75</field>
+        <field name="high">224.1</field>
+        <field name="low">220.08</field>
+        <field name="volume">34493600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250326" model="invest.security.entry">
+        <field name="date">2025-03-26"</field>
+        <field name="open">223.51</field>
+        <field name="close">221.53</field>
+        <field name="high">225.02</field>
+        <field name="low">220.47</field>
+        <field name="volume">34532656</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250327" model="invest.security.entry">
+        <field name="date">2025-03-27"</field>
+        <field name="open">221.39</field>
+        <field name="close">223.85</field>
+        <field name="high">224.99</field>
+        <field name="low">220.56</field>
+        <field name="volume">37094800</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250328" model="invest.security.entry">
+        <field name="date">2025-03-28"</field>
+        <field name="open">221.67</field>
+        <field name="close">217.9</field>
+        <field name="high">223.81</field>
+        <field name="low">217.68</field>
+        <field name="volume">39818617</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250331" model="invest.security.entry">
+        <field name="date">2025-03-31"</field>
+        <field name="open">217.01</field>
+        <field name="close">222.13</field>
+        <field name="high">225.62</field>
+        <field name="low">216.23</field>
+        <field name="volume">65299321</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250401" model="invest.security.entry">
+        <field name="date">2025-04-01"</field>
+        <field name="open">219.81</field>
+        <field name="close">223.19</field>
+        <field name="high">223.68</field>
+        <field name="low">218.9</field>
+        <field name="volume">36412740</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250402" model="invest.security.entry">
+        <field name="date">2025-04-02"</field>
+        <field name="open">221.32</field>
+        <field name="close">223.89</field>
+        <field name="high">225.19</field>
+        <field name="low">221.02</field>
+        <field name="volume">35905904</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250403" model="invest.security.entry">
+        <field name="date">2025-04-03"</field>
+        <field name="open">205.54</field>
+        <field name="close">203.19</field>
+        <field name="high">207.49</field>
+        <field name="low">201.25</field>
+        <field name="volume">103419006</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250404" model="invest.security.entry">
+        <field name="date">2025-04-04"</field>
+        <field name="open">193.89</field>
+        <field name="close">188.38</field>
+        <field name="high">199.88</field>
+        <field name="low">187.34</field>
+        <field name="volume">125910913</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250407" model="invest.security.entry">
+        <field name="date">2025-04-07"</field>
+        <field name="open">177.2</field>
+        <field name="close">181.46</field>
+        <field name="high">194.15</field>
+        <field name="low">174.62</field>
+        <field name="volume">160466300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250408" model="invest.security.entry">
+        <field name="date">2025-04-08"</field>
+        <field name="open">186.7</field>
+        <field name="close">172.42</field>
+        <field name="high">190.34</field>
+        <field name="low">169.21</field>
+        <field name="volume">120859500</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250409" model="invest.security.entry">
+        <field name="date">2025-04-09"</field>
+        <field name="open">171.95</field>
+        <field name="close">198.85</field>
+        <field name="high">200.61</field>
+        <field name="low">171.89</field>
+        <field name="volume">184395900</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250410" model="invest.security.entry">
+        <field name="date">2025-04-10"</field>
+        <field name="open">189.07</field>
+        <field name="close">190.42</field>
+        <field name="high">194.78</field>
+        <field name="low">183.0</field>
+        <field name="volume">121880000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250411" model="invest.security.entry">
+        <field name="date">2025-04-11"</field>
+        <field name="open">186.1</field>
+        <field name="close">198.15</field>
+        <field name="high">199.54</field>
+        <field name="low">186.06</field>
+        <field name="volume">87435915</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250414" model="invest.security.entry">
+        <field name="date">2025-04-14"</field>
+        <field name="open">211.44</field>
+        <field name="close">202.52</field>
+        <field name="high">212.94</field>
+        <field name="low">201.16</field>
+        <field name="volume">101352911</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250415" model="invest.security.entry">
+        <field name="date">2025-04-15"</field>
+        <field name="open">201.86</field>
+        <field name="close">202.14</field>
+        <field name="high">203.51</field>
+        <field name="low">199.8</field>
+        <field name="volume">51343900</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250416" model="invest.security.entry">
+        <field name="date">2025-04-16"</field>
+        <field name="open">198.36</field>
+        <field name="close">194.27</field>
+        <field name="high">200.7</field>
+        <field name="low">192.37</field>
+        <field name="volume">59732423</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250417" model="invest.security.entry">
+        <field name="date">2025-04-17"</field>
+        <field name="open">197.2</field>
+        <field name="close">196.98</field>
+        <field name="high">198.83</field>
+        <field name="low">194.42</field>
+        <field name="volume">52164700</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250421" model="invest.security.entry">
+        <field name="date">2025-04-21"</field>
+        <field name="open">193.27</field>
+        <field name="close">193.16</field>
+        <field name="high">193.8</field>
+        <field name="low">189.81</field>
+        <field name="volume">46742537</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250422" model="invest.security.entry">
+        <field name="date">2025-04-22"</field>
+        <field name="open">196.12</field>
+        <field name="close">199.74</field>
+        <field name="high">201.59</field>
+        <field name="low">195.97</field>
+        <field name="volume">52976400</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250423" model="invest.security.entry">
+        <field name="date">2025-04-23"</field>
+        <field name="open">206.0</field>
+        <field name="close">204.6</field>
+        <field name="high">208.0</field>
+        <field name="low">202.8</field>
+        <field name="volume">52929200</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250424" model="invest.security.entry">
+        <field name="date">2025-04-24"</field>
+        <field name="open">204.89</field>
+        <field name="close">208.37</field>
+        <field name="high">208.83</field>
+        <field name="low">202.94</field>
+        <field name="volume">47311000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250425" model="invest.security.entry">
+        <field name="date">2025-04-25"</field>
+        <field name="open">206.37</field>
+        <field name="close">209.28</field>
+        <field name="high">209.75</field>
+        <field name="low">206.2</field>
+        <field name="volume">38222300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250428" model="invest.security.entry">
+        <field name="date">2025-04-28"</field>
+        <field name="open">210.0</field>
+        <field name="close">210.14</field>
+        <field name="high">211.5</field>
+        <field name="low">207.46</field>
+        <field name="volume">38743100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250429" model="invest.security.entry">
+        <field name="date">2025-04-29"</field>
+        <field name="open">208.69</field>
+        <field name="close">211.21</field>
+        <field name="high">212.24</field>
+        <field name="low">208.37</field>
+        <field name="volume">36827633</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250430" model="invest.security.entry">
+        <field name="date">2025-04-30"</field>
+        <field name="open">209.3</field>
+        <field name="close">212.5</field>
+        <field name="high">213.58</field>
+        <field name="low">206.67</field>
+        <field name="volume">52286500</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250501" model="invest.security.entry">
+        <field name="date">2025-05-01"</field>
+        <field name="open">209.08</field>
+        <field name="close">213.32</field>
+        <field name="high">214.56</field>
+        <field name="low">208.9</field>
+        <field name="volume">57365700</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250502" model="invest.security.entry">
+        <field name="date">2025-05-02"</field>
+        <field name="open">206.09</field>
+        <field name="close">205.35</field>
+        <field name="high">206.99</field>
+        <field name="low">202.16</field>
+        <field name="volume">101010621</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250505" model="invest.security.entry">
+        <field name="date">2025-05-05"</field>
+        <field name="open">203.1</field>
+        <field name="close">198.89</field>
+        <field name="high">204.1</field>
+        <field name="low">198.21</field>
+        <field name="volume">69018500</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250506" model="invest.security.entry">
+        <field name="date">2025-05-06"</field>
+        <field name="open">198.21</field>
+        <field name="close">198.51</field>
+        <field name="high">200.65</field>
+        <field name="low">197.02</field>
+        <field name="volume">51216500</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250507" model="invest.security.entry">
+        <field name="date">2025-05-07"</field>
+        <field name="open">199.17</field>
+        <field name="close">196.25</field>
+        <field name="high">199.44</field>
+        <field name="low">193.25</field>
+        <field name="volume">68616943</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250508" model="invest.security.entry">
+        <field name="date">2025-05-08"</field>
+        <field name="open">197.72</field>
+        <field name="close">197.49</field>
+        <field name="high">200.05</field>
+        <field name="low">194.68</field>
+        <field name="volume">50478900</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250509" model="invest.security.entry">
+        <field name="date">2025-05-09"</field>
+        <field name="open">199.0</field>
+        <field name="close">198.53</field>
+        <field name="high">200.54</field>
+        <field name="low">197.54</field>
+        <field name="volume">36453923</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250512" model="invest.security.entry">
+        <field name="date">2025-05-12"</field>
+        <field name="open">210.97</field>
+        <field name="close">210.79</field>
+        <field name="high">211.27</field>
+        <field name="low">206.75</field>
+        <field name="volume">63775814</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250513" model="invest.security.entry">
+        <field name="date">2025-05-13"</field>
+        <field name="open">210.43</field>
+        <field name="close">212.93</field>
+        <field name="high">213.4</field>
+        <field name="low">209.0</field>
+        <field name="volume">51909332</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250514" model="invest.security.entry">
+        <field name="date">2025-05-14"</field>
+        <field name="open">212.43</field>
+        <field name="close">212.33</field>
+        <field name="high">213.94</field>
+        <field name="low">210.58</field>
+        <field name="volume">49325825</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250515" model="invest.security.entry">
+        <field name="date">2025-05-15"</field>
+        <field name="open">210.95</field>
+        <field name="close">211.45</field>
+        <field name="high">212.96</field>
+        <field name="low">209.54</field>
+        <field name="volume">45029500</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250516" model="invest.security.entry">
+        <field name="date">2025-05-16"</field>
+        <field name="open">212.36</field>
+        <field name="close">211.26</field>
+        <field name="high">212.57</field>
+        <field name="low">209.77</field>
+        <field name="volume">54737900</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250519" model="invest.security.entry">
+        <field name="date">2025-05-19"</field>
+        <field name="open">207.91</field>
+        <field name="close">208.78</field>
+        <field name="high">209.48</field>
+        <field name="low">204.26</field>
+        <field name="volume">46140527</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250520" model="invest.security.entry">
+        <field name="date">2025-05-20"</field>
+        <field name="open">207.67</field>
+        <field name="close">206.86</field>
+        <field name="high">208.47</field>
+        <field name="low">205.03</field>
+        <field name="volume">42496635</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250521" model="invest.security.entry">
+        <field name="date">2025-05-21"</field>
+        <field name="open">205.17</field>
+        <field name="close">202.09</field>
+        <field name="high">207.04</field>
+        <field name="low">200.71</field>
+        <field name="volume">59211800</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250522" model="invest.security.entry">
+        <field name="date">2025-05-22"</field>
+        <field name="open">200.71</field>
+        <field name="close">201.36</field>
+        <field name="high">202.75</field>
+        <field name="low">199.7</field>
+        <field name="volume">46742407</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250523" model="invest.security.entry">
+        <field name="date">2025-05-23"</field>
+        <field name="open">193.67</field>
+        <field name="close">195.27</field>
+        <field name="high">197.7</field>
+        <field name="low">193.46</field>
+        <field name="volume">78432918</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250527" model="invest.security.entry">
+        <field name="date">2025-05-27"</field>
+        <field name="open">198.3</field>
+        <field name="close">200.21</field>
+        <field name="high">200.74</field>
+        <field name="low">197.43</field>
+        <field name="volume">56288500</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250528" model="invest.security.entry">
+        <field name="date">2025-05-28"</field>
+        <field name="open">200.59</field>
+        <field name="close">200.42</field>
+        <field name="high">202.73</field>
+        <field name="low">199.9</field>
+        <field name="volume">45339700</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250529" model="invest.security.entry">
+        <field name="date">2025-05-29"</field>
+        <field name="open">203.58</field>
+        <field name="close">199.95</field>
+        <field name="high">203.81</field>
+        <field name="low">198.51</field>
+        <field name="volume">51477938</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250530" model="invest.security.entry">
+        <field name="date">2025-05-30"</field>
+        <field name="open">199.37</field>
+        <field name="close">200.85</field>
+        <field name="high">201.96</field>
+        <field name="low">196.78</field>
+        <field name="volume">70819942</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250602" model="invest.security.entry">
+        <field name="date">2025-06-02"</field>
+        <field name="open">200.28</field>
+        <field name="close">201.7</field>
+        <field name="high">202.13</field>
+        <field name="low">200.12</field>
+        <field name="volume">35423300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250603" model="invest.security.entry">
+        <field name="date">2025-06-03"</field>
+        <field name="open">201.35</field>
+        <field name="close">203.27</field>
+        <field name="high">203.77</field>
+        <field name="low">200.96</field>
+        <field name="volume">46381600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250604" model="invest.security.entry">
+        <field name="date">2025-06-04"</field>
+        <field name="open">202.91</field>
+        <field name="close">202.82</field>
+        <field name="high">206.24</field>
+        <field name="low">202.1</field>
+        <field name="volume">43604000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250605" model="invest.security.entry">
+        <field name="date">2025-06-05"</field>
+        <field name="open">203.5</field>
+        <field name="close">200.63</field>
+        <field name="high">204.75</field>
+        <field name="low">200.15</field>
+        <field name="volume">55221235</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250606" model="invest.security.entry">
+        <field name="date">2025-06-06"</field>
+        <field name="open">203.0</field>
+        <field name="close">203.92</field>
+        <field name="high">205.7</field>
+        <field name="low">202.05</field>
+        <field name="volume">46607700</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250609" model="invest.security.entry">
+        <field name="date">2025-06-09"</field>
+        <field name="open">204.39</field>
+        <field name="close">201.45</field>
+        <field name="high">206.0</field>
+        <field name="low">200.02</field>
+        <field name="volume">72862600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250610" model="invest.security.entry">
+        <field name="date">2025-06-10"</field>
+        <field name="open">200.6</field>
+        <field name="close">202.67</field>
+        <field name="high">204.35</field>
+        <field name="low">200.57</field>
+        <field name="volume">54672608</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250611" model="invest.security.entry">
+        <field name="date">2025-06-11"</field>
+        <field name="open">203.5</field>
+        <field name="close">198.78</field>
+        <field name="high">204.5</field>
+        <field name="low">198.41</field>
+        <field name="volume">60989900</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250612" model="invest.security.entry">
+        <field name="date">2025-06-12"</field>
+        <field name="open">199.08</field>
+        <field name="close">199.2</field>
+        <field name="high">199.68</field>
+        <field name="low">197.36</field>
+        <field name="volume">43904635</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250613" model="invest.security.entry">
+        <field name="date">2025-06-13"</field>
+        <field name="open">199.73</field>
+        <field name="close">196.45</field>
+        <field name="high">200.37</field>
+        <field name="low">195.7</field>
+        <field name="volume">51447349</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250616" model="invest.security.entry">
+        <field name="date">2025-06-16"</field>
+        <field name="open">197.3</field>
+        <field name="close">198.42</field>
+        <field name="high">198.69</field>
+        <field name="low">196.56</field>
+        <field name="volume">43020700</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250617" model="invest.security.entry">
+        <field name="date">2025-06-17"</field>
+        <field name="open">197.2</field>
+        <field name="close">195.64</field>
+        <field name="high">198.39</field>
+        <field name="low">195.21</field>
+        <field name="volume">38856200</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250618" model="invest.security.entry">
+        <field name="date">2025-06-18"</field>
+        <field name="open">195.94</field>
+        <field name="close">196.58</field>
+        <field name="high">197.57</field>
+        <field name="low">195.07</field>
+        <field name="volume">45394700</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250620" model="invest.security.entry">
+        <field name="date">2025-06-20"</field>
+        <field name="open">198.24</field>
+        <field name="close">201.0</field>
+        <field name="high">201.7</field>
+        <field name="low">196.86</field>
+        <field name="volume">96813542</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250623" model="invest.security.entry">
+        <field name="date">2025-06-23"</field>
+        <field name="open">201.63</field>
+        <field name="close">201.5</field>
+        <field name="high">202.3</field>
+        <field name="low">198.96</field>
+        <field name="volume">55814300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250624" model="invest.security.entry">
+        <field name="date">2025-06-24"</field>
+        <field name="open">202.59</field>
+        <field name="close">200.3</field>
+        <field name="high">203.44</field>
+        <field name="low">200.2</field>
+        <field name="volume">54064033</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250625" model="invest.security.entry">
+        <field name="date">2025-06-25"</field>
+        <field name="open">201.45</field>
+        <field name="close">201.56</field>
+        <field name="high">203.67</field>
+        <field name="low">200.62</field>
+        <field name="volume">39525730</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250626" model="invest.security.entry">
+        <field name="date">2025-06-26"</field>
+        <field name="open">201.43</field>
+        <field name="close">201.0</field>
+        <field name="high">202.64</field>
+        <field name="low">199.46</field>
+        <field name="volume">50799121</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250627" model="invest.security.entry">
+        <field name="date">2025-06-27"</field>
+        <field name="open">201.89</field>
+        <field name="close">201.08</field>
+        <field name="high">203.22</field>
+        <field name="low">200.0</field>
+        <field name="volume">73188600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250630" model="invest.security.entry">
+        <field name="date">2025-06-30"</field>
+        <field name="open">202.01</field>
+        <field name="close">205.17</field>
+        <field name="high">207.39</field>
+        <field name="low">199.26</field>
+        <field name="volume">91912816</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250701" model="invest.security.entry">
+        <field name="date">2025-07-01"</field>
+        <field name="open">206.67</field>
+        <field name="close">207.82</field>
+        <field name="high">210.19</field>
+        <field name="low">206.14</field>
+        <field name="volume">78788900</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250702" model="invest.security.entry">
+        <field name="date">2025-07-02"</field>
+        <field name="open">208.91</field>
+        <field name="close">212.44</field>
+        <field name="high">213.34</field>
+        <field name="low">208.14</field>
+        <field name="volume">67941811</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250703" model="invest.security.entry">
+        <field name="date">2025-07-03"</field>
+        <field name="open">212.15</field>
+        <field name="close">213.55</field>
+        <field name="high">214.65</field>
+        <field name="low">211.81</field>
+        <field name="volume">34955836</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250707" model="invest.security.entry">
+        <field name="date">2025-07-07"</field>
+        <field name="open">212.68</field>
+        <field name="close">209.95</field>
+        <field name="high">216.23</field>
+        <field name="low">208.8</field>
+        <field name="volume">50229000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250708" model="invest.security.entry">
+        <field name="date">2025-07-08"</field>
+        <field name="open">210.1</field>
+        <field name="close">210.01</field>
+        <field name="high">211.43</field>
+        <field name="low">208.45</field>
+        <field name="volume">42848928</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250709" model="invest.security.entry">
+        <field name="date">2025-07-09"</field>
+        <field name="open">209.53</field>
+        <field name="close">211.14</field>
+        <field name="high">211.33</field>
+        <field name="low">207.22</field>
+        <field name="volume">48749400</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250710" model="invest.security.entry">
+        <field name="date">2025-07-10"</field>
+        <field name="open">210.51</field>
+        <field name="close">212.41</field>
+        <field name="high">213.48</field>
+        <field name="low">210.03</field>
+        <field name="volume">44443635</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250711" model="invest.security.entry">
+        <field name="date">2025-07-11"</field>
+        <field name="open">210.57</field>
+        <field name="close">211.16</field>
+        <field name="high">212.13</field>
+        <field name="low">209.86</field>
+        <field name="volume">39765812</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250714" model="invest.security.entry">
+        <field name="date">2025-07-14"</field>
+        <field name="open">209.93</field>
+        <field name="close">208.62</field>
+        <field name="high">210.91</field>
+        <field name="low">207.54</field>
+        <field name="volume">38840111</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250715" model="invest.security.entry">
+        <field name="date">2025-07-15"</field>
+        <field name="open">209.22</field>
+        <field name="close">209.11</field>
+        <field name="high">211.89</field>
+        <field name="low">208.92</field>
+        <field name="volume">42296339</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250716" model="invest.security.entry">
+        <field name="date">2025-07-16"</field>
+        <field name="open">210.3</field>
+        <field name="close">210.16</field>
+        <field name="high">212.4</field>
+        <field name="low">208.64</field>
+        <field name="volume">47490532</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250717" model="invest.security.entry">
+        <field name="date">2025-07-17"</field>
+        <field name="open">210.57</field>
+        <field name="close">210.02</field>
+        <field name="high">211.8</field>
+        <field name="low">209.59</field>
+        <field name="volume">48068141</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250718" model="invest.security.entry">
+        <field name="date">2025-07-18"</field>
+        <field name="open">210.87</field>
+        <field name="close">211.18</field>
+        <field name="high">211.79</field>
+        <field name="low">209.7</field>
+        <field name="volume">48974600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250721" model="invest.security.entry">
+        <field name="date">2025-07-21"</field>
+        <field name="open">212.1</field>
+        <field name="close">212.48</field>
+        <field name="high">215.78</field>
+        <field name="low">211.63</field>
+        <field name="volume">51377434</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250722" model="invest.security.entry">
+        <field name="date">2025-07-22"</field>
+        <field name="open">213.14</field>
+        <field name="close">214.4</field>
+        <field name="high">214.95</field>
+        <field name="low">212.23</field>
+        <field name="volume">46404100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250723" model="invest.security.entry">
+        <field name="date">2025-07-23"</field>
+        <field name="open">215.0</field>
+        <field name="close">214.15</field>
+        <field name="high">215.15</field>
+        <field name="low">212.41</field>
+        <field name="volume">46989301</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250724" model="invest.security.entry">
+        <field name="date">2025-07-24"</field>
+        <field name="open">213.9</field>
+        <field name="close">213.76</field>
+        <field name="high">215.69</field>
+        <field name="low">213.53</field>
+        <field name="volume">46022620</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250725" model="invest.security.entry">
+        <field name="date">2025-07-25"</field>
+        <field name="open">214.7</field>
+        <field name="close">213.88</field>
+        <field name="high">215.24</field>
+        <field name="low">213.4</field>
+        <field name="volume">40268800</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250728" model="invest.security.entry">
+        <field name="date">2025-07-28"</field>
+        <field name="open">214.03</field>
+        <field name="close">214.05</field>
+        <field name="high">214.85</field>
+        <field name="low">213.06</field>
+        <field name="volume">37858017</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250729" model="invest.security.entry">
+        <field name="date">2025-07-29"</field>
+        <field name="open">214.18</field>
+        <field name="close">211.27</field>
+        <field name="high">214.81</field>
+        <field name="low">210.82</field>
+        <field name="volume">51411723</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250730" model="invest.security.entry">
+        <field name="date">2025-07-30"</field>
+        <field name="open">211.9</field>
+        <field name="close">209.05</field>
+        <field name="high">212.39</field>
+        <field name="low">207.72</field>
+        <field name="volume">45512514</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250731" model="invest.security.entry">
+        <field name="date">2025-07-31"</field>
+        <field name="open">208.49</field>
+        <field name="close">207.57</field>
+        <field name="high">209.84</field>
+        <field name="low">207.16</field>
+        <field name="volume">80698431</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250801" model="invest.security.entry">
+        <field name="date">2025-08-01"</field>
+        <field name="open">210.87</field>
+        <field name="close">202.38</field>
+        <field name="high">213.58</field>
+        <field name="low">201.5</field>
+        <field name="volume">104434500</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250804" model="invest.security.entry">
+        <field name="date">2025-08-04"</field>
+        <field name="open">204.51</field>
+        <field name="close">203.35</field>
+        <field name="high">207.88</field>
+        <field name="low">201.68</field>
+        <field name="volume">75109300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250805" model="invest.security.entry">
+        <field name="date">2025-08-05"</field>
+        <field name="open">203.4</field>
+        <field name="close">202.92</field>
+        <field name="high">205.34</field>
+        <field name="low">202.16</field>
+        <field name="volume">44155100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250806" model="invest.security.entry">
+        <field name="date">2025-08-06"</field>
+        <field name="open">205.63</field>
+        <field name="close">213.25</field>
+        <field name="high">215.38</field>
+        <field name="low">205.59</field>
+        <field name="volume">108483103</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250807" model="invest.security.entry">
+        <field name="date">2025-08-07"</field>
+        <field name="open">218.88</field>
+        <field name="close">220.03</field>
+        <field name="high">220.85</field>
+        <field name="low">216.58</field>
+        <field name="volume">90224834</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250808" model="invest.security.entry">
+        <field name="date">2025-08-08"</field>
+        <field name="open">220.83</field>
+        <field name="close">229.35</field>
+        <field name="high">231.0</field>
+        <field name="low">219.25</field>
+        <field name="volume">113854000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250811" model="invest.security.entry">
+        <field name="date">2025-08-11"</field>
+        <field name="open">227.92</field>
+        <field name="close">227.18</field>
+        <field name="high">229.56</field>
+        <field name="low">224.76</field>
+        <field name="volume">61806132</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250812" model="invest.security.entry">
+        <field name="date">2025-08-12"</field>
+        <field name="open">228.01</field>
+        <field name="close">229.65</field>
+        <field name="high">230.8</field>
+        <field name="low">227.07</field>
+        <field name="volume">55672301</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250813" model="invest.security.entry">
+        <field name="date">2025-08-13"</field>
+        <field name="open">231.07</field>
+        <field name="close">233.33</field>
+        <field name="high">235.0</field>
+        <field name="low">230.43</field>
+        <field name="volume">69878546</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250814" model="invest.security.entry">
+        <field name="date">2025-08-14"</field>
+        <field name="open">234.06</field>
+        <field name="close">232.78</field>
+        <field name="high">235.12</field>
+        <field name="low">230.85</field>
+        <field name="volume">51916300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250815" model="invest.security.entry">
+        <field name="date">2025-08-15"</field>
+        <field name="open">234.0</field>
+        <field name="close">231.59</field>
+        <field name="high">234.28</field>
+        <field name="low">229.34</field>
+        <field name="volume">56038700</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250818" model="invest.security.entry">
+        <field name="date">2025-08-18"</field>
+        <field name="open">231.7</field>
+        <field name="close">230.89</field>
+        <field name="high">233.12</field>
+        <field name="low">230.11</field>
+        <field name="volume">37476200</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250819" model="invest.security.entry">
+        <field name="date">2025-08-19"</field>
+        <field name="open">231.28</field>
+        <field name="close">230.56</field>
+        <field name="high">232.87</field>
+        <field name="low">229.35</field>
+        <field name="volume">39402600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250820" model="invest.security.entry">
+        <field name="date">2025-08-20"</field>
+        <field name="open">229.98</field>
+        <field name="close">226.01</field>
+        <field name="high">230.47</field>
+        <field name="low">225.77</field>
+        <field name="volume">42263900</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250821" model="invest.security.entry">
+        <field name="date">2025-08-21"</field>
+        <field name="open">226.27</field>
+        <field name="close">224.9</field>
+        <field name="high">226.52</field>
+        <field name="low">223.78</field>
+        <field name="volume">30621249</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250822" model="invest.security.entry">
+        <field name="date">2025-08-22"</field>
+        <field name="open">226.17</field>
+        <field name="close">227.76</field>
+        <field name="high">229.09</field>
+        <field name="low">225.41</field>
+        <field name="volume">42477811</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250825" model="invest.security.entry">
+        <field name="date">2025-08-25"</field>
+        <field name="open">226.48</field>
+        <field name="close">227.16</field>
+        <field name="high">229.3</field>
+        <field name="low">226.23</field>
+        <field name="volume">30983133</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250826" model="invest.security.entry">
+        <field name="date">2025-08-26"</field>
+        <field name="open">226.87</field>
+        <field name="close">229.31</field>
+        <field name="high">229.49</field>
+        <field name="low">224.69</field>
+        <field name="volume">54575107</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250827" model="invest.security.entry">
+        <field name="date">2025-08-27"</field>
+        <field name="open">228.61</field>
+        <field name="close">230.49</field>
+        <field name="high">230.9</field>
+        <field name="low">228.26</field>
+        <field name="volume">31259513</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250828" model="invest.security.entry">
+        <field name="date">2025-08-28"</field>
+        <field name="open">230.82</field>
+        <field name="close">232.56</field>
+        <field name="high">233.41</field>
+        <field name="low">229.34</field>
+        <field name="volume">38074700</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250829" model="invest.security.entry">
+        <field name="date">2025-08-29"</field>
+        <field name="open">232.51</field>
+        <field name="close">232.14</field>
+        <field name="high">233.38</field>
+        <field name="low">231.37</field>
+        <field name="volume">39418437</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250902" model="invest.security.entry">
+        <field name="date">2025-09-02"</field>
+        <field name="open">229.25</field>
+        <field name="close">229.72</field>
+        <field name="high">230.85</field>
+        <field name="low">226.97</field>
+        <field name="volume">44075638</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250903" model="invest.security.entry">
+        <field name="date">2025-09-03"</field>
+        <field name="open">237.21</field>
+        <field name="close">238.47</field>
+        <field name="high">238.85</field>
+        <field name="low">234.36</field>
+        <field name="volume">66427835</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250904" model="invest.security.entry">
+        <field name="date">2025-09-04"</field>
+        <field name="open">238.45</field>
+        <field name="close">239.78</field>
+        <field name="high">239.9</field>
+        <field name="low">236.74</field>
+        <field name="volume">47549429</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250905" model="invest.security.entry">
+        <field name="date">2025-09-05"</field>
+        <field name="open">240.0</field>
+        <field name="close">239.69</field>
+        <field name="high">241.32</field>
+        <field name="low">238.49</field>
+        <field name="volume">54870400</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250908" model="invest.security.entry">
+        <field name="date">2025-09-08"</field>
+        <field name="open">239.3</field>
+        <field name="close">237.88</field>
+        <field name="high">240.15</field>
+        <field name="low">236.34</field>
+        <field name="volume">48999500</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250909" model="invest.security.entry">
+        <field name="date">2025-09-09"</field>
+        <field name="open">237.0</field>
+        <field name="close">234.35</field>
+        <field name="high">238.78</field>
+        <field name="low">233.36</field>
+        <field name="volume">66313918</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250910" model="invest.security.entry">
+        <field name="date">2025-09-10"</field>
+        <field name="open">232.19</field>
+        <field name="close">226.79</field>
+        <field name="high">232.42</field>
+        <field name="low">225.95</field>
+        <field name="volume">83440810</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250911" model="invest.security.entry">
+        <field name="date">2025-09-11"</field>
+        <field name="open">226.88</field>
+        <field name="close">230.03</field>
+        <field name="high">230.45</field>
+        <field name="low">226.65</field>
+        <field name="volume">50208600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250912" model="invest.security.entry">
+        <field name="date">2025-09-12"</field>
+        <field name="open">229.22</field>
+        <field name="close">234.07</field>
+        <field name="high">234.51</field>
+        <field name="low">229.02</field>
+        <field name="volume">55824216</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250915" model="invest.security.entry">
+        <field name="date">2025-09-15"</field>
+        <field name="open">237.0</field>
+        <field name="close">236.7</field>
+        <field name="high">238.19</field>
+        <field name="low">235.03</field>
+        <field name="volume">42699524</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250916" model="invest.security.entry">
+        <field name="date">2025-09-16"</field>
+        <field name="open">237.18</field>
+        <field name="close">238.15</field>
+        <field name="high">241.22</field>
+        <field name="low">236.32</field>
+        <field name="volume">63421100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250917" model="invest.security.entry">
+        <field name="date">2025-09-17"</field>
+        <field name="open">238.97</field>
+        <field name="close">238.99</field>
+        <field name="high">240.1</field>
+        <field name="low">237.73</field>
+        <field name="volume">46508017</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250918" model="invest.security.entry">
+        <field name="date">2025-09-18"</field>
+        <field name="open">239.97</field>
+        <field name="close">237.88</field>
+        <field name="high">241.2</field>
+        <field name="low">236.65</field>
+        <field name="volume">44249600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250919" model="invest.security.entry">
+        <field name="date">2025-09-19"</field>
+        <field name="open">241.23</field>
+        <field name="close">245.5</field>
+        <field name="high">246.3</field>
+        <field name="low">240.21</field>
+        <field name="volume">163741314</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250922" model="invest.security.entry">
+        <field name="date">2025-09-22"</field>
+        <field name="open">248.3</field>
+        <field name="close">256.08</field>
+        <field name="high">256.64</field>
+        <field name="low">248.12</field>
+        <field name="volume">105517416</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250923" model="invest.security.entry">
+        <field name="date">2025-09-23"</field>
+        <field name="open">255.88</field>
+        <field name="close">254.43</field>
+        <field name="high">257.34</field>
+        <field name="low">253.58</field>
+        <field name="volume">60275200</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250924" model="invest.security.entry">
+        <field name="date">2025-09-24"</field>
+        <field name="open">255.22</field>
+        <field name="close">252.31</field>
+        <field name="high">255.74</field>
+        <field name="low">251.04</field>
+        <field name="volume">42303710</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250925" model="invest.security.entry">
+        <field name="date">2025-09-25"</field>
+        <field name="open">253.21</field>
+        <field name="close">256.87</field>
+        <field name="high">257.17</field>
+        <field name="low">251.71</field>
+        <field name="volume">55202100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250926" model="invest.security.entry">
+        <field name="date">2025-09-26"</field>
+        <field name="open">254.1</field>
+        <field name="close">255.46</field>
+        <field name="high">257.6</field>
+        <field name="low">253.78</field>
+        <field name="volume">46076300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250929" model="invest.security.entry">
+        <field name="date">2025-09-29"</field>
+        <field name="open">254.56</field>
+        <field name="close">254.43</field>
+        <field name="high">255.0</field>
+        <field name="low">253.01</field>
+        <field name="volume">40127700</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20250930" model="invest.security.entry">
+        <field name="date">2025-09-30"</field>
+        <field name="open">254.86</field>
+        <field name="close">254.63</field>
+        <field name="high">255.92</field>
+        <field name="low">253.11</field>
+        <field name="volume">37704300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251001" model="invest.security.entry">
+        <field name="date">2025-10-01"</field>
+        <field name="open">255.04</field>
+        <field name="close">255.45</field>
+        <field name="high">258.79</field>
+        <field name="low">254.93</field>
+        <field name="volume">48713940</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251002" model="invest.security.entry">
+        <field name="date">2025-10-02"</field>
+        <field name="open">256.58</field>
+        <field name="close">257.13</field>
+        <field name="high">258.18</field>
+        <field name="low">254.15</field>
+        <field name="volume">42630239</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251003" model="invest.security.entry">
+        <field name="date">2025-10-03"</field>
+        <field name="open">254.67</field>
+        <field name="close">258.02</field>
+        <field name="high">259.24</field>
+        <field name="low">253.95</field>
+        <field name="volume">49155614</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251006" model="invest.security.entry">
+        <field name="date">2025-10-06"</field>
+        <field name="open">257.99</field>
+        <field name="close">256.69</field>
+        <field name="high">259.07</field>
+        <field name="low">255.05</field>
+        <field name="volume">44664118</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251007" model="invest.security.entry">
+        <field name="date">2025-10-07"</field>
+        <field name="open">256.81</field>
+        <field name="close">256.48</field>
+        <field name="high">257.4</field>
+        <field name="low">255.43</field>
+        <field name="volume">31955800</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251008" model="invest.security.entry">
+        <field name="date">2025-10-08"</field>
+        <field name="open">256.52</field>
+        <field name="close">258.06</field>
+        <field name="high">258.52</field>
+        <field name="low">256.11</field>
+        <field name="volume">36496900</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251009" model="invest.security.entry">
+        <field name="date">2025-10-09"</field>
+        <field name="open">257.81</field>
+        <field name="close">254.04</field>
+        <field name="high">258.0</field>
+        <field name="low">253.14</field>
+        <field name="volume">38322012</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251010" model="invest.security.entry">
+        <field name="date">2025-10-10"</field>
+        <field name="open">254.94</field>
+        <field name="close">245.27</field>
+        <field name="high">256.38</field>
+        <field name="low">244.0</field>
+        <field name="volume">61999100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251013" model="invest.security.entry">
+        <field name="date">2025-10-13"</field>
+        <field name="open">249.38</field>
+        <field name="close">247.66</field>
+        <field name="high">249.69</field>
+        <field name="low">245.56</field>
+        <field name="volume">38142942</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251014" model="invest.security.entry">
+        <field name="date">2025-10-14"</field>
+        <field name="open">246.6</field>
+        <field name="close">247.77</field>
+        <field name="high">248.85</field>
+        <field name="low">244.7</field>
+        <field name="volume">35478000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251015" model="invest.security.entry">
+        <field name="date">2025-10-15"</field>
+        <field name="open">249.49</field>
+        <field name="close">249.34</field>
+        <field name="high">251.82</field>
+        <field name="low">247.47</field>
+        <field name="volume">33893611</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251016" model="invest.security.entry">
+        <field name="date">2025-10-16"</field>
+        <field name="open">248.25</field>
+        <field name="close">247.45</field>
+        <field name="high">249.04</field>
+        <field name="low">245.13</field>
+        <field name="volume">39777000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251017" model="invest.security.entry">
+        <field name="date">2025-10-17"</field>
+        <field name="open">248.02</field>
+        <field name="close">252.29</field>
+        <field name="high">253.38</field>
+        <field name="low">247.27</field>
+        <field name="volume">49147000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251020" model="invest.security.entry">
+        <field name="date">2025-10-20"</field>
+        <field name="open">255.89</field>
+        <field name="close">262.24</field>
+        <field name="high">264.38</field>
+        <field name="low">255.63</field>
+        <field name="volume">90483029</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251021" model="invest.security.entry">
+        <field name="date">2025-10-21"</field>
+        <field name="open">261.88</field>
+        <field name="close">262.77</field>
+        <field name="high">265.29</field>
+        <field name="low">261.83</field>
+        <field name="volume">46695948</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251022" model="invest.security.entry">
+        <field name="date">2025-10-22"</field>
+        <field name="open">262.65</field>
+        <field name="close">258.45</field>
+        <field name="high">262.85</field>
+        <field name="low">255.43</field>
+        <field name="volume">45015300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251023" model="invest.security.entry">
+        <field name="date">2025-10-23"</field>
+        <field name="open">259.94</field>
+        <field name="close">259.58</field>
+        <field name="high">260.62</field>
+        <field name="low">258.01</field>
+        <field name="volume">32754941</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251024" model="invest.security.entry">
+        <field name="date">2025-10-24"</field>
+        <field name="open">261.19</field>
+        <field name="close">262.82</field>
+        <field name="high">264.13</field>
+        <field name="low">259.18</field>
+        <field name="volume">38253717</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251027" model="invest.security.entry">
+        <field name="date">2025-10-27"</field>
+        <field name="open">264.88</field>
+        <field name="close">268.81</field>
+        <field name="high">269.12</field>
+        <field name="low">264.65</field>
+        <field name="volume">44888200</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251028" model="invest.security.entry">
+        <field name="date">2025-10-28"</field>
+        <field name="open">268.99</field>
+        <field name="close">269.0</field>
+        <field name="high">269.89</field>
+        <field name="low">268.15</field>
+        <field name="volume">41534800</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251029" model="invest.security.entry">
+        <field name="date">2025-10-29"</field>
+        <field name="open">269.27</field>
+        <field name="close">269.7</field>
+        <field name="high">271.41</field>
+        <field name="low">267.11</field>
+        <field name="volume">51086742</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251030" model="invest.security.entry">
+        <field name="date">2025-10-30"</field>
+        <field name="open">271.99</field>
+        <field name="close">271.4</field>
+        <field name="high">274.14</field>
+        <field name="low">268.48</field>
+        <field name="volume">69886534</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251031" model="invest.security.entry">
+        <field name="date">2025-10-31"</field>
+        <field name="open">276.99</field>
+        <field name="close">270.37</field>
+        <field name="high">277.32</field>
+        <field name="low">269.16</field>
+        <field name="volume">86167123</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251103" model="invest.security.entry">
+        <field name="date">2025-11-03"</field>
+        <field name="open">270.42</field>
+        <field name="close">269.05</field>
+        <field name="high">270.85</field>
+        <field name="low">266.25</field>
+        <field name="volume">50194600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251104" model="invest.security.entry">
+        <field name="date">2025-11-04"</field>
+        <field name="open">268.33</field>
+        <field name="close">270.04</field>
+        <field name="high">271.49</field>
+        <field name="low">267.62</field>
+        <field name="volume">49274846</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251105" model="invest.security.entry">
+        <field name="date">2025-11-05"</field>
+        <field name="open">268.61</field>
+        <field name="close">270.14</field>
+        <field name="high">271.7</field>
+        <field name="low">266.93</field>
+        <field name="volume">43683100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251106" model="invest.security.entry">
+        <field name="date">2025-11-06"</field>
+        <field name="open">267.89</field>
+        <field name="close">269.77</field>
+        <field name="high">273.4</field>
+        <field name="low">267.89</field>
+        <field name="volume">51204045</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251107" model="invest.security.entry">
+        <field name="date">2025-11-07"</field>
+        <field name="open">269.8</field>
+        <field name="close">268.47</field>
+        <field name="high">272.29</field>
+        <field name="low">266.77</field>
+        <field name="volume">48227400</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251110" model="invest.security.entry">
+        <field name="date">2025-11-10"</field>
+        <field name="open">268.96</field>
+        <field name="close">269.43</field>
+        <field name="high">273.73</field>
+        <field name="low">267.46</field>
+        <field name="volume">41312412</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251111" model="invest.security.entry">
+        <field name="date">2025-11-11"</field>
+        <field name="open">269.81</field>
+        <field name="close">275.25</field>
+        <field name="high">275.91</field>
+        <field name="low">269.8</field>
+        <field name="volume">46208318</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251112" model="invest.security.entry">
+        <field name="date">2025-11-12"</field>
+        <field name="open">275.0</field>
+        <field name="close">273.47</field>
+        <field name="high">275.73</field>
+        <field name="low">271.7</field>
+        <field name="volume">48398000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251113" model="invest.security.entry">
+        <field name="date">2025-11-13"</field>
+        <field name="open">274.11</field>
+        <field name="close">272.95</field>
+        <field name="high">276.7</field>
+        <field name="low">272.09</field>
+        <field name="volume">49602800</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251114" model="invest.security.entry">
+        <field name="date">2025-11-14"</field>
+        <field name="open">271.05</field>
+        <field name="close">272.41</field>
+        <field name="high">275.96</field>
+        <field name="low">269.6</field>
+        <field name="volume">47431331</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251117" model="invest.security.entry">
+        <field name="date">2025-11-17"</field>
+        <field name="open">268.82</field>
+        <field name="close">267.46</field>
+        <field name="high">270.49</field>
+        <field name="low">265.73</field>
+        <field name="volume">45018300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251118" model="invest.security.entry">
+        <field name="date">2025-11-18"</field>
+        <field name="open">269.99</field>
+        <field name="close">267.44</field>
+        <field name="high">270.71</field>
+        <field name="low">265.32</field>
+        <field name="volume">45677300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251119" model="invest.security.entry">
+        <field name="date">2025-11-19"</field>
+        <field name="open">265.52</field>
+        <field name="close">268.56</field>
+        <field name="high">272.21</field>
+        <field name="low">265.5</field>
+        <field name="volume">40424500</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251120" model="invest.security.entry">
+        <field name="date">2025-11-20"</field>
+        <field name="open">270.83</field>
+        <field name="close">266.25</field>
+        <field name="high">275.43</field>
+        <field name="low">265.92</field>
+        <field name="volume">45823600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251121" model="invest.security.entry">
+        <field name="date">2025-11-21"</field>
+        <field name="open">265.95</field>
+        <field name="close">271.49</field>
+        <field name="high">273.33</field>
+        <field name="low">265.67</field>
+        <field name="volume">59030832</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251124" model="invest.security.entry">
+        <field name="date">2025-11-24"</field>
+        <field name="open">270.9</field>
+        <field name="close">275.92</field>
+        <field name="high">277.0</field>
+        <field name="low">270.9</field>
+        <field name="volume">65585800</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251125" model="invest.security.entry">
+        <field name="date">2025-11-25"</field>
+        <field name="open">275.27</field>
+        <field name="close">276.97</field>
+        <field name="high">280.38</field>
+        <field name="low">275.25</field>
+        <field name="volume">46914220</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251126" model="invest.security.entry">
+        <field name="date">2025-11-26"</field>
+        <field name="open">276.96</field>
+        <field name="close">277.55</field>
+        <field name="high">279.53</field>
+        <field name="low">276.63</field>
+        <field name="volume">33431423</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251128" model="invest.security.entry">
+        <field name="date">2025-11-28"</field>
+        <field name="open">277.26</field>
+        <field name="close">278.85</field>
+        <field name="high">279.0</field>
+        <field name="low">275.99</field>
+        <field name="volume">20135620</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251201" model="invest.security.entry">
+        <field name="date">2025-12-01"</field>
+        <field name="open">278.01</field>
+        <field name="close">283.1</field>
+        <field name="high">283.42</field>
+        <field name="low">276.14</field>
+        <field name="volume">46587722</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251202" model="invest.security.entry">
+        <field name="date">2025-12-02"</field>
+        <field name="open">283.0</field>
+        <field name="close">286.19</field>
+        <field name="high">287.4</field>
+        <field name="low">282.63</field>
+        <field name="volume">53669532</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251203" model="invest.security.entry">
+        <field name="date">2025-12-03"</field>
+        <field name="open">286.2</field>
+        <field name="close">284.15</field>
+        <field name="high">288.62</field>
+        <field name="low">283.3</field>
+        <field name="volume">43538700</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251204" model="invest.security.entry">
+        <field name="date">2025-12-04"</field>
+        <field name="open">284.1</field>
+        <field name="close">280.7</field>
+        <field name="high">284.73</field>
+        <field name="low">278.59</field>
+        <field name="volume">43989100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251205" model="invest.security.entry">
+        <field name="date">2025-12-05"</field>
+        <field name="open">280.54</field>
+        <field name="close">278.78</field>
+        <field name="high">281.14</field>
+        <field name="low">278.05</field>
+        <field name="volume">47265845</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251208" model="invest.security.entry">
+        <field name="date">2025-12-08"</field>
+        <field name="open">278.13</field>
+        <field name="close">277.89</field>
+        <field name="high">279.67</field>
+        <field name="low">276.15</field>
+        <field name="volume">38211832</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251209" model="invest.security.entry">
+        <field name="date">2025-12-09"</field>
+        <field name="open">278.16</field>
+        <field name="close">277.18</field>
+        <field name="high">280.03</field>
+        <field name="low">276.92</field>
+        <field name="volume">32193300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251210" model="invest.security.entry">
+        <field name="date">2025-12-10"</field>
+        <field name="open">277.75</field>
+        <field name="close">278.78</field>
+        <field name="high">279.75</field>
+        <field name="low">276.44</field>
+        <field name="volume">33038318</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251211" model="invest.security.entry">
+        <field name="date">2025-12-11"</field>
+        <field name="open">279.1</field>
+        <field name="close">278.03</field>
+        <field name="high">279.59</field>
+        <field name="low">273.81</field>
+        <field name="volume">33248000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251212" model="invest.security.entry">
+        <field name="date">2025-12-12"</field>
+        <field name="open">277.9</field>
+        <field name="close">278.28</field>
+        <field name="high">279.22</field>
+        <field name="low">276.82</field>
+        <field name="volume">39532900</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251215" model="invest.security.entry">
+        <field name="date">2025-12-15"</field>
+        <field name="open">280.15</field>
+        <field name="close">274.11</field>
+        <field name="high">280.15</field>
+        <field name="low">272.84</field>
+        <field name="volume">50409100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251216" model="invest.security.entry">
+        <field name="date">2025-12-16"</field>
+        <field name="open">272.82</field>
+        <field name="close">274.61</field>
+        <field name="high">275.5</field>
+        <field name="low">271.79</field>
+        <field name="volume">37648628</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251217" model="invest.security.entry">
+        <field name="date">2025-12-17"</field>
+        <field name="open">275.01</field>
+        <field name="close">271.84</field>
+        <field name="high">276.16</field>
+        <field name="low">271.64</field>
+        <field name="volume">50138743</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251218" model="invest.security.entry">
+        <field name="date">2025-12-18"</field>
+        <field name="open">273.61</field>
+        <field name="close">272.19</field>
+        <field name="high">273.63</field>
+        <field name="low">266.95</field>
+        <field name="volume">51630721</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251219" model="invest.security.entry">
+        <field name="date">2025-12-19"</field>
+        <field name="open">272.15</field>
+        <field name="close">273.67</field>
+        <field name="high">274.6</field>
+        <field name="low">269.9</field>
+        <field name="volume">144632048</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251222" model="invest.security.entry">
+        <field name="date">2025-12-22"</field>
+        <field name="open">272.86</field>
+        <field name="close">270.97</field>
+        <field name="high">273.88</field>
+        <field name="low">270.51</field>
+        <field name="volume">36571827</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251223" model="invest.security.entry">
+        <field name="date">2025-12-23"</field>
+        <field name="open">270.84</field>
+        <field name="close">272.36</field>
+        <field name="high">272.5</field>
+        <field name="low">269.56</field>
+        <field name="volume">29642000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251224" model="invest.security.entry">
+        <field name="date">2025-12-24"</field>
+        <field name="open">272.34</field>
+        <field name="close">273.81</field>
+        <field name="high">275.43</field>
+        <field name="low">272.2</field>
+        <field name="volume">17910600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251226" model="invest.security.entry">
+        <field name="date">2025-12-26"</field>
+        <field name="open">274.16</field>
+        <field name="close">273.4</field>
+        <field name="high">275.37</field>
+        <field name="low">272.86</field>
+        <field name="volume">21521802</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251229" model="invest.security.entry">
+        <field name="date">2025-12-29"</field>
+        <field name="open">272.69</field>
+        <field name="close">273.76</field>
+        <field name="high">274.36</field>
+        <field name="low">272.35</field>
+        <field name="volume">23715213</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251230" model="invest.security.entry">
+        <field name="date">2025-12-30"</field>
+        <field name="open">272.81</field>
+        <field name="close">273.08</field>
+        <field name="high">274.08</field>
+        <field name="low">272.28</field>
+        <field name="volume">22139617</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20251231" model="invest.security.entry">
+        <field name="date">2025-12-31"</field>
+        <field name="open">273.06</field>
+        <field name="close">271.86</field>
+        <field name="high">273.68</field>
+        <field name="low">271.75</field>
+        <field name="volume">27293639</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260102" model="invest.security.entry">
+        <field name="date">2026-01-02"</field>
+        <field name="open">272.26</field>
+        <field name="close">271.01</field>
+        <field name="high">277.84</field>
+        <field name="low">269.0</field>
+        <field name="volume">37838100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260105" model="invest.security.entry">
+        <field name="date">2026-01-05"</field>
+        <field name="open">270.64</field>
+        <field name="close">267.26</field>
+        <field name="high">271.51</field>
+        <field name="low">266.14</field>
+        <field name="volume">45647200</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260106" model="invest.security.entry">
+        <field name="date">2026-01-06"</field>
+        <field name="open">267.0</field>
+        <field name="close">262.36</field>
+        <field name="high">267.55</field>
+        <field name="low">262.12</field>
+        <field name="volume">52352100</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260107" model="invest.security.entry">
+        <field name="date">2026-01-07"</field>
+        <field name="open">263.2</field>
+        <field name="close">260.33</field>
+        <field name="high">263.68</field>
+        <field name="low">259.81</field>
+        <field name="volume">48309804</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260108" model="invest.security.entry">
+        <field name="date">2026-01-08"</field>
+        <field name="open">257.02</field>
+        <field name="close">259.04</field>
+        <field name="high">259.29</field>
+        <field name="low">255.7</field>
+        <field name="volume">50419337</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260109" model="invest.security.entry">
+        <field name="date">2026-01-09"</field>
+        <field name="open">259.08</field>
+        <field name="close">259.37</field>
+        <field name="high">260.21</field>
+        <field name="low">256.22</field>
+        <field name="volume">39997000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260112" model="invest.security.entry">
+        <field name="date">2026-01-12"</field>
+        <field name="open">259.16</field>
+        <field name="close">260.25</field>
+        <field name="high">261.3</field>
+        <field name="low">256.8</field>
+        <field name="volume">45263800</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260113" model="invest.security.entry">
+        <field name="date">2026-01-13"</field>
+        <field name="open">258.72</field>
+        <field name="close">261.05</field>
+        <field name="high">261.81</field>
+        <field name="low">258.39</field>
+        <field name="volume">45730847</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260114" model="invest.security.entry">
+        <field name="date">2026-01-14"</field>
+        <field name="open">259.49</field>
+        <field name="close">259.96</field>
+        <field name="high">261.82</field>
+        <field name="low">256.71</field>
+        <field name="volume">40019421</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260115" model="invest.security.entry">
+        <field name="date">2026-01-15"</field>
+        <field name="open">260.65</field>
+        <field name="close">258.21</field>
+        <field name="high">261.04</field>
+        <field name="low">257.05</field>
+        <field name="volume">39388600</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260116" model="invest.security.entry">
+        <field name="date">2026-01-16"</field>
+        <field name="open">257.9</field>
+        <field name="close">255.53</field>
+        <field name="high">258.9</field>
+        <field name="low">254.93</field>
+        <field name="volume">72142800</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260120" model="invest.security.entry">
+        <field name="date">2026-01-20"</field>
+        <field name="open">252.73</field>
+        <field name="close">246.7</field>
+        <field name="high">254.79</field>
+        <field name="low">243.42</field>
+        <field name="volume">80267517</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260121" model="invest.security.entry">
+        <field name="date">2026-01-21"</field>
+        <field name="open">248.7</field>
+        <field name="close">247.65</field>
+        <field name="high">251.56</field>
+        <field name="low">245.18</field>
+        <field name="volume">54641725</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260122" model="invest.security.entry">
+        <field name="date">2026-01-22"</field>
+        <field name="open">249.2</field>
+        <field name="close">248.35</field>
+        <field name="high">251.0</field>
+        <field name="low">248.15</field>
+        <field name="volume">39708340</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260123" model="invest.security.entry">
+        <field name="date">2026-01-23"</field>
+        <field name="open">247.32</field>
+        <field name="close">248.04</field>
+        <field name="high">249.41</field>
+        <field name="low">244.68</field>
+        <field name="volume">41689000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260126" model="invest.security.entry">
+        <field name="date">2026-01-26"</field>
+        <field name="open">251.48</field>
+        <field name="close">255.41</field>
+        <field name="high">256.56</field>
+        <field name="low">249.8</field>
+        <field name="volume">55969234</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260127" model="invest.security.entry">
+        <field name="date">2026-01-27"</field>
+        <field name="open">259.17</field>
+        <field name="close">258.27</field>
+        <field name="high">261.95</field>
+        <field name="low">258.21</field>
+        <field name="volume">49648300</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260128" model="invest.security.entry">
+        <field name="date">2026-01-28"</field>
+        <field name="open">257.65</field>
+        <field name="close">256.44</field>
+        <field name="high">258.86</field>
+        <field name="low">254.51</field>
+        <field name="volume">41288000</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260129" model="invest.security.entry">
+        <field name="date">2026-01-29"</field>
+        <field name="open">258.0</field>
+        <field name="close">258.28</field>
+        <field name="high">259.65</field>
+        <field name="low">254.41</field>
+        <field name="volume">67253009</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260130" model="invest.security.entry">
+        <field name="date">2026-01-30"</field>
+        <field name="open">255.17</field>
+        <field name="close">259.48</field>
+        <field name="high">261.9</field>
+        <field name="low">252.18</field>
+        <field name="volume">92443408</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260202" model="invest.security.entry">
+        <field name="date">2026-02-02"</field>
+        <field name="open">260.03</field>
+        <field name="close">270.01</field>
+        <field name="high">270.49</field>
+        <field name="low">259.21</field>
+        <field name="volume">73913425</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260203" model="invest.security.entry">
+        <field name="date">2026-02-03"</field>
+        <field name="open">269.2</field>
+        <field name="close">269.48</field>
+        <field name="high">271.88</field>
+        <field name="low">267.61</field>
+        <field name="volume">64394700</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+    <record forcecreate="0" id="aapl20260204" model="invest.security.entry">
+        <field name="date">2026-02-04"</field>
+        <field name="open">272.29</field>
+        <field name="close">276.49</field>
+        <field name="high">278.95</field>
+        <field name="low">272.29</field>
+        <field name="volume">89810584</field>
+        <field name="security_id" ref="aapl"/>
+    </record>
+
+</odoo>

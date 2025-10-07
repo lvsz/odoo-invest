@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="invest_exchange_form" model="ir.ui.view">
+        <field name="name">invest.exchange.form</field>
+        <field name="model">invest.exchange</field>
+        <field name="arch" type="xml">
+            <form string="Exchange">
+                <field name="name"/>
+                <field name="country_id"/>
+                <field name="code" optional="hide"/>
+            </form>
+        </field>
+    </record>
+
+    <record id="invest_security_list" model="ir.ui.view">
+        <field name="name">invest.security.list</field>
+        <field name="model">invest.security</field>
+        <field name="arch" type="xml">
+            <list class="o_invest_security" string="Securities">
+                <field name="currency_id" column_invisible="True"/>
+                <field name="ticker"/>
+                <field name="name"/>
+                <field name="code" optional="hide"/>
+                <field name="type" optional="hide"/>
+                <field name="value" widget="monetary" options="{'currency_field': 'currency_id'}"/>
+                <field name="exchange_id" optional="hide"/>
+            </list>
+        </field>
+    </record>
+
+    <record id="open_invest_security_list" model="ir.actions.act_window">
+        <field name="name">Securities</field>
+        <field name="path">securities</field>
+        <field name="res_model">invest.security</field>
+        <field name="view_mode">list,form</field>
+        <field name="view_id" ref="invest_security_list"/>
+        <field name="usage">menu</field>
+    </record>
+
+</odoo>

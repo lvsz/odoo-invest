@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="portfolio_dashboard_kanban_view" model="ir.ui.view">
+        <field name="name">invest.portfolio.dashboard.kanban</field>
+        <field name="model">invest.portfolio</field>
+        <field name="arch" type="xml">
+            <kanban
+                class="o_invest_dashboard_kanban"
+                action="action_open_cap_table"
+                type="object"
+                >
+                <templates>
+                    <t t-name="card">
+                        <field name="currency_id" invisible="1"/>
+                        <span class="d-flex d-flex-row align-items-baseline fs-4">
+                            <div class="fw-bold col text-nowrap text-truncate">
+                                <field name="name"/>
+                            </div>
+                            <a name="action_open_security_list" type="object" class="ms-auto text-end col">
+                                <field
+                                    name="market_value"
+                                    widget="monetary"
+                                    options="{'currency_field': 'currency_id'}"
+                                />
+                            </a>
+                        </span>
+                        <div class="p-0 container-fluid">
+                            <div class="row">
+                                <div class="col text-muted">
+                                    <field name="line_count" class="pe-1"/>
+                                    <span>Position<span invisible="line_count == 1">s</span></span>
+                                </div>
+                            </div>
+                            <a name="action_open_order_list" type="object">
+                                <field name="order_count" class="pe-1"/>
+                                <span>Order<span invisible="order_count == 1">s</span></span>
+                            </a>
+                            <div class="row mt-auto">
+                                <field name="equity_kanban_dashboard_graph" graph_type="line" widget="dashboard_graph"/>
+                            </div>
+                        </div>
+                    </t>
+                </templates>
+            </kanban>
+        </field>
+    </record>
+
+</odoo>

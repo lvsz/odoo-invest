@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <data noupdate="1">
+        <record id="GBX" model="res.currency">
+            <field name="name">GBX</field>
+            <field name="full_name">Pence sterling</field>
+            <field name="rounding">0.01</field>
+            <field name="symbol">GBX</field>
+            <field name="position">before</field>
+            <field name="active" eval="False"/>
+            <field name="currency_unit_label">Pence</field>
+        </record>
+    </data>
+
+</odoo>

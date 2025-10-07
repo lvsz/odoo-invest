@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem
+        name="Invest"
+        id="menu_invest"
+        web_icon="invest,static/description/icon.png"
+        sequence="20"
+    >
+        <menuitem
+            name="Investments"
+            id="menu_view"
+            action="open_invest_security_list"
+            sequence="10"
+        />
+        <menuitem
+            name="Reporting"
+            id="menu_reporting"
+            action="open_invest_security_list"
+            sequence="20"
+        />
+        <menuitem
+            name="Configuration"
+            id="menu_configuration"
+            action="open_invest_security_list"
+            sequence="30"
+        />
+    </menuitem>
+</odoo>

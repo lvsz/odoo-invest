@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="invest_security_form" model="ir.ui.view">
+        <field name="name">invest.security.form</field>
+        <field name="model">invest.security</field>
+        <field name="arch" type="xml">
+            <form string="Security">
+                <header>
+                    <button
+                        name="action_update_entries"
+                        string="Update"
+                        type="object"
+                        data-hotkey="shift+r"
+                    />
+                </header>
+                <sheet>
+                    <group>
+                        <group>
+                            <field name="name"/>
+                            <field name="ticker"/>
+                            <field name="exchange_id"/>
+                            <field name="value"/>
+                        </group>
+                        <group>
+                            <field name="currency_id" options="{'no_create': True}"/>
+                            <field name="code" optional="hide"/>
+                            <field name="type" optional="hide"/>
+                        </group>
+                    </group>
+                    <notebook>
+                        <page string="Entries">
+                            <div style="position: absolute;">
+                                <button
+                                    name="action_update_entries"
+                                    type="object"
+                                    class="btn btn-primary fa fa-refresh m-1 py-2 px-3"
+                                    />
+                            </div>
+                            <field name="entry_ids">
+                                <list create="0" open="0">
+                                    <field name="currency_id" column_invisible="True"/>
+                                    <field name="date"/>
+                                    <field name="open" widget="monetary"/>
+                                    <field name="close" widget="monetary"/>
+                                    <field name="low" widget="monetary" optional="hide"/>
+                                    <field name="high" widget="monetary" optional="hide"/>
+                                    <field name="volume"/>
+                                </list>
+                            </field>
+                        </page>
+                    </notebook>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <record id="invest_security_entry_from" model="ir.ui.view">
+        <field name="name">invest.security.entry.form</field>
+        <field name="model">invest.security.entry</field>
+        <field name="arch" type="xml">
+            <form string="Security Entry">
+                <group>
+                    <field name="currency_id" invisible="1"/>
+                    <group colspan="2">
+                        <field name="date" class="o_text_block o_text_bold"/>
+                    </group>
+                    <group colspan="1">
+                        <field name="open" widget="monetary"/>
+                        <field name="close" widget="monetary"/>
+                        <field name="change" widget="percentage" />
+                        <field name="previous_entry_id"/>
+                    </group>
+                    <group colspan="1">
+                        <field name="low" widget="monetary" optional="hide"/>
+                        <field name="high" widget="monetary" optional="hide"/>
+                        <field name="volume"/>
+                        <field name="next_entry_id"/>
+                    </group>
+                </group>
+            </form>
+        </field>
+    </record>
+
+    <record id="invest_security_list" model="ir.ui.view">
+        <field name="name">invest.security.list</field>
+        <field name="model">invest.security</field>
+        <field name="arch" type="xml">
+                <header>
+                    <button
+                        name="action_update_entries"
+                        string="Update"
+                        type="object"
+                        data-hotkey="shift+r"
+                    />
+                </header>
+            <list class="o_invest_security" string="Securities">
+                <field name="currency_id" column_invisible="True"/>
+                <field name="ticker"/>
+                <field name="name"/>
+                <field name="code" optional="hide"/>
+                <field name="type" optional="hide"/>
+                <field name="value" widget="monetary" options="{'currency_field': 'currency_id'}"/>
+                <field name="exchange_id" optional="hide"/>
+            </list>
+        </field>
+    </record>
+
+    <record id="open_invest_security_list" model="ir.actions.act_window">
+        <field name="name">Securities</field>
+        <field name="path">securities</field>
+        <field name="res_model">invest.security</field>
+        <field name="view_mode">list,form</field>
+        <field name="view_id" ref="invest_security_list"/>
+        <field name="usage">menu</field>
+    </record>
+
+</odoo>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+
+    <record id="bel" model="invest.security">
+        <field name="name">Amundi BEL 20 ETF Dist</field>
+        <field name="ticker">BEL</field>
+        <field name="code">FR0000021842</field>
+        <field name="type">etf</field>
+        <field name="exchange_id" ref="xbru"/>
+        <field name="currency_id" ref="base.EUR"/>
+    </record>
+
+    <record id="aapl" model="invest.security">
+        <field name="name">Apple Inc.</field>
+        <field name="ticker">AAPL</field>
+        <field name="code">US0378331005</field>
+        <field name="type">stock</field>
+        <field name="exchange_id" ref="xnas"/>
+        <field name="currency_id" ref="base.USD"/>
+    </record>
+
+</odoo>
