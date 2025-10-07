@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="invest_security_list" model="ir.ui.view">
+        <field name="name">invest.security.list</field>
+        <field name="model">invest.security</field>
+        <field name="arch" type="xml">
+            <list class="o_invest_security" string="Securities">
+                <field name="currency_id" column_invisible="True"/>
+
+                <field name="ticker"/>
+                <field name="name"/>
+                <field name="code" optional="hide"/>
+                <field name="variant" optional="hide"/>
+                <field name="value" widget="monetary"/>
+                <field name="market_id" optional="hide"/>
+            </list>
+        </field>
+    </record>
+
+</odoo>

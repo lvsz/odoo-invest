@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+
+    <record id="invest_broker_1" model="invest.broker">
+        <field name="name">Demo Broker</field>
+    </record>
+
+</odoo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+
+    <record id="invest_market_ebr" model="invest.market">
+        <field name="name">Euronext Brussels</field>
+        <field name="code">XBRU</field>
+        <field name="country_id" ref="base.be"/>
+    </record>
+
+    <record id="invest_market_xetra" model="invest.market">
+        <field name="name">Xetra</field>
+        <field name="code">XETR</field>
+        <field name="country_id" ref="base.de"/>
+    </record>
+
+</odoo>

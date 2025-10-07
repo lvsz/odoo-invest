@@ -1,0 +1,19 @@
+# dotfiles
+.*
+!.gitignore
+!.gitkeep
+!.github
+!.mailmap
+!.weblate.json
+
+# compiled python files
+*.py[co]
+__pycache__/
+
+# js tooling
+node_modules
+jsconfig.json
+tsconfig.json
+package-lock.json
+package.json
+.husky

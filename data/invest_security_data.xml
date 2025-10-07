@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+
+    <record id="invest_security_bel" model="invest.security">
+        <field name="name">Amundi BEL 20 ETF Dist</field>
+        <field name="ticker">BEL</field>
+        <field name="variant">etf</field>
+        <field name="value">74.81</field>
+        <field name="market_id" ref="invest_market_ebr"/>
+        <field name="currency_id" ref="base.EUR"/>
+    </record>
+
+</odoo>
